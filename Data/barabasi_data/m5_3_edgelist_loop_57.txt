@@ -1,0 +1,2669 @@
+0 38 {}
+0 103 {'contraction': {(1, 231): {'contraction': {(3, 485): {}}}}}
+0 34 {'contraction': {(10, 818): {'contraction': {(82, 10): {}}}, (44, 6): {}, (1, 126): {'contraction': {(74, 233): {}, (3, 168): {}}}}}
+0 0 {'contraction': {(10, 10): {}, (10, 28): {}, (1, 1): {'contraction': {(3, 3): {}, (3, 18): {}}}, (1, 6): {'contraction': {(10, 18): {}, (3, 28): {'contraction': {(25, 1): {}}}}}}}
+0 1 {'contraction': {(20, 28): {}, (10, 36): {}, (1, 8): {'contraction': {(5, 1): {}}}}}
+0 73 {}
+0 30 {'contraction': {(91, 6): {}, (1, 119): {}}}
+0 60 {'contraction': {(1, 170): {'contraction': {(3, 409): {}, (55, 1): {'contraction': {(3, 196): {}}}}}}}
+0 97 {'contraction': {(87, 6): {}, (1, 225): {'contraction': {(3, 478): {}, (87, 1): {}}}}}
+0 72 {'contraction': {(179, 6): {'contraction': {(10, 419): {}}}, (1, 193): {'contraction': {(179, 1): {}}}}}
+0 23 {'contraction': {(22, 6): {'contraction': {(10, 88): {'contraction': {(78, 10): {}}}}}, (1, 86): {'contraction': {(3, 268): {}, (22, 1): {'contraction': {(264, 1): {}, (78, 3): {}}}}}}}
+0 11 {'contraction': {(41, 28): {}, (1, 38): {}, (0, 6): {'contraction': {(10, 6): {}, (0, 28): {}, (1, 0): {'contraction': {(1, 7): {}, (0, 18): {'contraction': {(3, 0): {}}}}}}}}}
+0 94 {'contraction': {(134, 6): {}, (1, 221): {'contraction': {(932, 1): {}}}}}
+0 106 {'contraction': {(201, 6): {}}}
+0 99 {'contraction': {(188, 6): {}, (1, 227): {'contraction': {(74, 924): {}, (188, 1): {}}}}}
+0 79 {'contraction': {(10, 452): {}, (1, 204): {}}}
+0 120 {'contraction': {(10, 504): {}, (184, 6): {}}}
+0 89 {'contraction': {(183, 6): {}}}
+0 22 {'contraction': {(10, 267): {}, (63, 6): {}}}
+0 108 {'contraction': {(1, 236): {'contraction': {(3, 491): {'contraction': {(483, 3): {}}}}}}}
+0 14 {'contraction': {(34, 6): {'contraction': {(75, 10): {}}}, (1, 53): {'contraction': {(3, 132): {}}}}}
+0 25 {'contraction': {(187, 10): {}, (1, 96): {'contraction': {(76, 18): {}}}}}
+0 26 {'contraction': {(1, 98): {'contraction': {(1, 207): {}}}}}
+0 17 {'contraction': {(1, 65): {'contraction': {(42, 1): {'contraction': {(3, 160): {}}}}}}}
+0 47 {'contraction': {(1, 152): {}}}
+0 12 {'contraction': {(11, 6): {'contraction': {(10, 51): {}}}, (1, 45): {'contraction': {(11, 1): {}}}}}
+0 127 {}
+0 62 {'contraction': {(35, 6): {}, (1, 172): {}}}
+0 6 {'contraction': {(2, 10): {}, (13, 6): {'contraction': {(10, 56): {}}}, (1, 25): {'contraction': {(13, 1): {'contraction': {(3, 56): {'contraction': {(1, 217): {}}}}}}}}}
+0 51 {'contraction': {(166, 10): {}, (1, 158): {}}}
+0 69 {}
+0 117 {'contraction': {(1, 245): {}}}
+0 43 {'contraction': {(97, 6): {}}}
+0 4 {'contraction': {(16, 6): {}, (1, 17): {'contraction': {(16, 1): {}}}}}
+0 5 {'contraction': {(9, 6): {}, (1, 23): {}}}
+0 125 {'contraction': {(25, 742): {}, (1, 253): {'contraction': {(99, 1): {}}}}}
+0 122 {'contraction': {(66, 6): {'contraction': {(10, 223): {}}}}}
+0 81 {'contraction': {(1, 206): {'contraction': {(186, 1): {}}}}}
+0 114 {'contraction': {(189, 6): {}}}
+0 78 {'contraction': {(1, 202): {}}}
+0 58 {'contraction': {(1, 168): {}}}
+0 63 {'contraction': {(83, 6): {}, (1, 174): {'contraction': {(83, 1): {}}}}}
+0 42 {'contraction': {(1, 141): {}}}
+0 55 {}
+0 48 {'contraction': {(78, 6): {}}}
+0 9 {'contraction': {(29, 6): {}, (1, 33): {'contraction': {(1, 200): {}}}}}
+0 33 {'contraction': {(1, 125): {}}}
+0 32 {'contraction': {(28, 6): {}, (1, 124): {'contraction': {(3, 333): {}}}}}
+0 20 {'contraction': {(50, 25): {}, (1, 79): {'contraction': {(15, 1): {'contraction': {(3, 70): {}}}}}}}
+0 7 {'contraction': {(1, 30): {'contraction': {(31, 3): {}}}, (4, 6): {'contraction': {(1, 28): {}, (1, 4): {'contraction': {(1, 14): {}}}}}}}
+0 2 {'contraction': {(3, 6): {}}}
+0 115 {}
+0 86 {}
+0 110 {}
+0 118 {'contraction': {(10, 469): {}}}
+0 95 {}
+0 87 {'contraction': {(25, 839): {}}}
+0 104 {}
+0 77 {'contraction': {(1, 200): {}}}
+0 102 {}
+0 121 {'contraction': {(1, 249): {}}}
+0 92 {'contraction': {(1, 219): {}}}
+0 83 {}
+0 96 {'contraction': {(1, 223): {'contraction': {(41, 1): {}}}}}
+0 61 {'contraction': {(1, 171): {'contraction': {(81, 1): {}}}}}
+0 113 {'contraction': {(1, 241): {'contraction': {(62, 1): {}}}}}
+0 59 {'contraction': {(1, 169): {'contraction': {(1, 656): {}, (146, 1): {}}}}}
+0 35 {'contraction': {(1, 130): {}}}
+0 31 {'contraction': {(10, 297): {}, (1, 121): {'contraction': {(102, 1): {}}}}}
+0 105 {'contraction': {(100, 10): {}, (1, 233): {}}}
+0 24 {'contraction': {(1, 95): {'contraction': {(58, 1): {}}}}}
+0 88 {'contraction': {(10, 140): {}, (1, 214): {}}}
+0 37 {'contraction': {(1, 135): {}}}
+0 44 {'contraction': {(10, 211): {}, (1, 143): {'contraction': {(3, 211): {}}}}}
+0 28 {'contraction': {(1, 114): {'contraction': {(1, 98): {}}}}}
+0 13 {'contraction': {(69, 10): {}, (1, 51): {}}}
+0 19 {}
+0 57 {'contraction': {(1, 165): {'contraction': {(24, 1): {}}}}}
+0 8 {'contraction': {(10, 85): {}, (1, 32): {'contraction': {(3, 127): {}, (19, 1): {'contraction': {(33, 3): {}}}}}}}
+0 16 {'contraction': {(1, 64): {'contraction': {(3, 220): {}}}}}
+0 15 {'contraction': {(1, 59): {'contraction': {(3, 108): {}}}}}
+0 3 {'contraction': {(10, 22): {}, (1, 14): {'contraction': {(2, 1): {}}}}}
+0 18 {}
+0 49 {'contraction': {(3, 381): {'contraction': {(1, 871): {}}}, (148, 1): {}}}
+0 75 {}
+0 74 {'contraction': {(293, 18): {}}}
+0 27 {'contraction': {(197, 18): {}}}
+0 10 {'contraction': {(3, 139): {'contraction': {(136, 1): {}}}}}
+0 56 {'contraction': {(68, 1): {}}}
+0 64 {'contraction': {(67, 1): {}}}
+0 36 {'contraction': {(46, 1): {'contraction': {(3, 174): {}}}}}
+0 54 {'contraction': {(111, 1): {}}}
+0 126 {}
+0 45 {}
+0 109 {'contraction': {(74, 1): {}}}
+0 101 {}
+0 84 {}
+0 71 {'contraction': {(1, 685): {}}}
+0 29 {'contraction': {(60, 1): {}}}
+0 116 {}
+0 39 {'contraction': {(112, 1): {'contraction': {(3, 315): {}}}}}
+0 90 {}
+0 66 {'contraction': {(3, 320): {}}}
+0 123 {}
+0 52 {'contraction': {(335, 86): {}}}
+0 70 {'contraction': {(3, 126): {}}}
+0 98 {}
+0 111 {}
+0 112 {}
+0 46 {}
+0 124 {'contraction': {(113, 18): {}}}
+0 100 {}
+0 53 {}
+1 55 {'contraction': {(5, 163): {}}}
+1 1 {'contraction': {(20, 36): {}, (20, 20): {}, (5, 5): {'contraction': {(15, 15): {}, (15, 27): {}}}, (5, 8): {}}}
+1 54 {}
+1 67 {}
+1 92 {}
+1 70 {}
+1 60 {'contraction': {(5, 170): {'contraction': {(119, 39): {}, (15, 409): {}}}}}
+1 102 {}
+1 13 {'contraction': {(123, 36): {}, (5, 51): {}}}
+1 115 {'contraction': {(93, 850): {}}}
+1 107 {'contraction': {(5, 235): {}}}
+1 127 {}
+1 104 {}
+1 38 {'contraction': {(5, 136): {'contraction': {(80, 5): {}}}}}
+1 29 {'contraction': {(60, 8): {}}}
+1 44 {}
+1 18 {}
+1 68 {'contraction': {(167, 8): {}}}
+1 8 {'contraction': {(103, 20): {}, (5, 32): {}}}
+1 48 {}
+1 24 {'contraction': {(5, 95): {}}}
+1 103 {'contraction': {(5, 231): {}}}
+1 43 {}
+1 4 {}
+1 109 {'contraction': {(5, 237): {}}}
+1 124 {}
+1 57 {'contraction': {(24, 8): {}, (5, 165): {}}}
+1 11 {'contraction': {(5, 38): {}, (0, 8): {'contraction': {(20, 0): {}, (5, 0): {'contraction': {(0, 27): {'contraction': {(0, 123): {'contraction': {(39, 0): {}}}, (15, 0): {'contraction': {(36, 9): {}}}}}}}}}}}
+1 84 {'contraction': {(5, 210): {}}}
+1 110 {}
+1 119 {}
+1 85 {'contraction': {(125, 20): {}, (5, 211): {'contraction': {(15, 312): {}}}}}
+1 50 {}
+1 89 {}
+1 46 {}
+1 74 {}
+1 100 {'contraction': {(5, 228): {'contraction': {(166, 5): {'contraction': {(15, 401): {}}}}}}}
+1 35 {}
+1 42 {'contraction': {(20, 323): {}}}
+1 25 {'contraction': {(251, 36): {}}}
+1 97 {'contraction': {(50, 20): {}}}
+1 16 {'contraction': {(5, 64): {}}}
+1 10 {'contraction': {(5, 36): {'contraction': {(12, 5): {'contraction': {(43, 15): {}}}}}}}
+1 47 {'contraction': {(5, 152): {}}}
+1 15 {}
+1 12 {'contraction': {(5, 45): {'contraction': {(39, 85): {}}}}}
+1 96 {}
+1 117 {'contraction': {(15, 501): {}}}
+1 7 {'contraction': {(4, 8): {'contraction': {(5, 4): {}}}}}
+1 69 {}
+1 59 {}
+1 2 {'contraction': {(39, 27): {'contraction': {(15, 39): {}}}}}
+1 82 {}
+1 77 {}
+1 120 {}
+1 105 {}
+1 71 {'contraction': {(127, 5): {}}}
+1 80 {}
+1 108 {}
+1 40 {'contraction': {(54, 5): {'contraction': {(15, 195): {}}}}}
+1 51 {}
+1 125 {}
+1 101 {}
+1 73 {'contraction': {(339, 27): {}}}
+1 111 {}
+1 126 {'contraction': {(179, 83): {}}}
+1 65 {'contraction': {(55, 27): {}}}
+1 61 {}
+1 14 {}
+1 62 {}
+1 39 {}
+1 9 {}
+1 88 {}
+1 26 {}
+1 37 {}
+1 53 {}
+1 19 {}
+1 23 {}
+1 3 {'contraction': {(20, 22): {}, (5, 2): {}}}
+1 5 {}
+2 123 {'contraction': {(39, 507): {}}}
+2 85 {'contraction': {(64, 971): {}}}
+2 37 {'contraction': {(39, 351): {}, (3, 135): {'contraction': {(5, 351): {}}}}}
+2 2 {'contraction': {(39, 39): {}, (39, 48): {}, (3, 3): {'contraction': {(5, 23): {}, (5, 5): {}}}, (3, 10): {'contraction': {(64, 5): {}, (39, 23): {}}}}}
+2 35 {'contraction': {(3, 130): {}}}
+2 62 {'contraction': {(3, 172): {'contraction': {(259, 40): {}, (5, 411): {'contraction': {(343, 5): {}}}}}}}
+2 101 {'contraction': {(233, 48): {}}}
+2 114 {'contraction': {(189, 10): {}, (3, 242): {'contraction': {(309, 5): {}}}}}
+2 98 {'contraction': {(104, 10): {'contraction': {(64, 698): {}}}}}
+2 120 {'contraction': {(3, 248): {'contraction': {(210, 5): {}, (184, 3): {}}}}}
+2 66 {}
+2 83 {'contraction': {(117, 10): {}, (3, 208): {'contraction': {(5, 457): {}, (117, 3): {'contraction': {(5, 322): {}}}}}}}
+2 61 {'contraction': {(81, 10): {}}}
+2 117 {'contraction': {(3, 245): {'contraction': {(89, 3): {'contraction': {(5, 273): {}}}}}}}
+2 72 {'contraction': {(3, 193): {'contraction': {(225, 5): {}, (179, 3): {'contraction': {(208, 23): {}}}}}}}
+2 19 {}
+2 49 {'contraction': {(148, 10): {}, (3, 155): {'contraction': {(80, 23): {}, (5, 369): {}}}}}
+2 5 {'contraction': {(39, 92): {}, (9, 10): {'contraction': {(13, 39): {}}}, (3, 23): {'contraction': {(9, 3): {'contraction': {(13, 5): {}}}}}}}
+2 82 {'contraction': {(39, 456): {}}}
+2 22 {}
+2 68 {'contraction': {(39, 431): {}, (3, 187): {}}}
+2 63 {'contraction': {(188, 64): {}, (3, 174): {}}}
+2 65 {'contraction': {(108, 10): {}, (3, 177): {'contraction': {(5, 417): {}}}}}
+2 7 {'contraction': {(39, 122): {}, (4, 10): {'contraction': {(3, 4): {}}}}}
+2 9 {'contraction': {(3, 33): {'contraction': {(5, 130): {}}}}}
+2 13 {'contraction': {(123, 39): {}, (48, 10): {}, (3, 51): {}}}
+2 24 {'contraction': {(58, 10): {}, (3, 95): {}}}
+2 43 {'contraction': {(3, 142): {}}}
+2 79 {'contraction': {(185, 10): {'contraction': {(631, 15): {}}}, (3, 204): {}}}
+2 103 {'contraction': {(3, 231): {}}}
+2 51 {'contraction': {(166, 39): {}}}
+2 99 {'contraction': {(188, 10): {}, (3, 227): {'contraction': {(5, 432): {}}}}}
+2 16 {'contraction': {(27, 10): {'contraction': {(39, 109): {'contraction': {(71, 39): {'contraction': {(19, 15): {}}}}}}}, (3, 64): {}}}
+2 54 {}
+2 4 {'contraction': {(3, 17): {'contraction': {(5, 77): {}, (16, 3): {}}}}}
+2 86 {}
+2 110 {'contraction': {(75, 10): {}}}
+2 67 {}
+2 38 {'contraction': {(80, 10): {}}}
+2 71 {'contraction': {(592, 15): {}, (127, 10): {}, (3, 192): {'contraction': {(127, 3): {}}}}}
+2 118 {'contraction': {(218, 10): {}, (3, 246): {'contraction': {(5, 502): {}}}}}
+2 89 {'contraction': {(183, 10): {}, (3, 215): {}}}
+2 18 {'contraction': {(43, 10): {'contraction': {(62, 39): {}}}, (3, 71): {'contraction': {(43, 3): {}}}}}
+2 124 {'contraction': {(70, 10): {}, (3, 252): {'contraction': {(70, 3): {}}}}}
+2 119 {'contraction': {(3, 247): {'contraction': {(5, 503): {'contraction': {(402, 5): {}}}}}}}
+2 41 {'contraction': {(3, 140): {'contraction': {(120, 3): {}}}}}
+2 8 {}
+2 28 {'contraction': {(3, 114): {'contraction': {(7, 3): {'contraction': {(68, 5): {}, (21, 5): {}}}}}}}
+2 33 {'contraction': {(94, 10): {}, (3, 125): {'contraction': {(94, 3): {}}}}}
+2 15 {'contraction': {(26, 10): {'contraction': {(40, 48): {}}}, (3, 59): {'contraction': {(26, 3): {}}}}}
+2 20 {'contraction': {(15, 10): {}, (3, 79): {'contraction': {(11, 5): {}, (15, 3): {}}}}}
+2 11 {'contraction': {(0, 10): {'contraction': {(0, 48): {'contraction': {(15, 0): {}}}, (3, 0): {'contraction': {(0, 23): {'contraction': {(0, 110): {}, (5, 0): {'contraction': {(0, 30): {'contraction': {(5, 0): {}}}}}}}}}}}}}
+2 45 {}
+2 95 {}
+2 107 {}
+2 78 {}
+2 77 {}
+2 121 {'contraction': {(3, 249): {}}}
+2 112 {'contraction': {(115, 48): {}, (39, 205): {}}}
+2 127 {}
+2 116 {'contraction': {(39, 346): {}, (3, 244): {}}}
+2 92 {}
+2 46 {'contraction': {(3, 147): {'contraction': {(39, 3): {}}}}}
+2 69 {'contraction': {(3, 190): {'contraction': {(5, 307): {}}}}}
+2 81 {}
+2 126 {'contraction': {(3, 254): {'contraction': {(93, 3): {'contraction': {(5, 281): {}}}}}}}
+2 113 {'contraction': {(3, 241): {}}}
+2 14 {'contraction': {(3, 53): {}}}
+2 39 {'contraction': {(32, 48): {}, (39, 315): {}, (3, 138): {'contraction': {(112, 3): {'contraction': {(32, 5): {}}}}}}}
+2 31 {'contraction': {(3, 121): {'contraction': {(104, 5): {}}}}}
+2 97 {'contraction': {(39, 270): {}}}
+2 105 {'contraction': {(3, 233): {'contraction': {(5, 652): {}}}}}
+2 88 {'contraction': {(3, 214): {'contraction': {(100, 5): {}}}}}
+2 27 {'contraction': {(127, 64): {}, (39, 177): {}, (3, 103): {}}}
+2 26 {'contraction': {(155, 39): {}, (3, 98): {'contraction': {(5, 290): {}}}}}
+2 53 {'contraction': {(3, 160): {}}}
+2 10 {}
+2 12 {'contraction': {(3, 45): {}}}
+2 3 {'contraction': {(16, 15): {}, (3, 14): {'contraction': {(5, 57): {}, (2, 3): {'contraction': {(16, 5): {}}}}}}}
+2 6 {'contraction': {(3, 25): {'contraction': {(13, 3): {'contraction': {(4, 5): {}}}}}}}
+2 100 {}
+2 70 {'contraction': {(5, 435): {'contraction': {(5, 772): {}}}}}
+2 104 {'contraction': {(5, 486): {}}}
+2 91 {'contraction': {(144, 3): {'contraction': {(5, 364): {}}}}}
+2 74 {}
+2 90 {}
+2 55 {'contraction': {(5, 394): {}}}
+2 48 {'contraction': {(5, 377): {}, (78, 3): {}}}
+2 17 {}
+2 58 {}
+2 106 {}
+2 122 {}
+2 93 {}
+2 60 {}
+2 25 {}
+2 47 {'contraction': {(21, 3): {}}}
+2 23 {}
+2 115 {}
+2 30 {'contraction': {(156, 5): {}}}
+2 75 {'contraction': {(5, 372): {}}}
+2 80 {}
+2 50 {}
+2 64 {}
+2 96 {}
+2 59 {'contraction': {(5, 367): {'contraction': {(282, 5): {}, (158, 5): {}}}}}
+2 21 {}
+2 44 {'contraction': {(5, 621): {}}}
+2 32 {'contraction': {(26, 23): {}, (5, 114): {}}}
+3 82 {'contraction': {(197, 14): {}}}
+3 115 {}
+3 48 {'contraction': {(28, 866): {}}}
+3 3 {'contraction': {(37, 37): {}, (37, 57): {}, (2, 2): {'contraction': {(16, 16): {}, (16, 22): {}}}, (2, 14): {}}}
+3 7 {'contraction': {(31, 57): {}, (2, 30): {}, (4, 14): {'contraction': {(2, 4): {'contraction': {(1, 22): {'contraction': {(16, 1): {}}}}}}}}}
+3 32 {'contraction': {(28, 14): {}, (2, 124): {}}}
+3 23 {'contraction': {(37, 268): {}, (2, 86): {}}}
+3 107 {}
+3 95 {'contraction': {(173, 14): {}, (2, 222): {}}}
+3 113 {}
+3 21 {'contraction': {(77, 14): {}}}
+3 53 {'contraction': {(20, 14): {}}}
+3 15 {'contraction': {(37, 207): {}}}
+3 47 {'contraction': {(2, 152): {'contraction': {(21, 2): {}}}}}
+3 12 {}
+3 4 {'contraction': {(2, 17): {}}}
+3 81 {}
+3 46 {'contraction': {(39, 14): {}}}
+3 16 {'contraction': {(2, 64): {}}}
+3 56 {'contraction': {(2, 164): {}}}
+3 74 {'contraction': {(2, 195): {}}}
+3 62 {'contraction': {(35, 14): {}, (2, 172): {}}}
+3 61 {'contraction': {(2, 171): {}}}
+3 42 {}
+3 55 {}
+3 43 {'contraction': {(97, 14): {'contraction': {(121, 57): {}}}}}
+3 17 {'contraction': {(2, 65): {'contraction': {(42, 2): {}}}}}
+3 5 {'contraction': {(9, 14): {'contraction': {(2, 9): {}}}}}
+3 120 {}
+3 72 {'contraction': {(208, 57): {}}}
+3 85 {}
+3 73 {'contraction': {(37, 349): {}, (2, 194): {}}}
+3 36 {}
+3 71 {}
+3 99 {'contraction': {(2, 227): {}}}
+3 64 {'contraction': {(2, 175): {}}}
+3 109 {}
+3 29 {}
+3 76 {'contraction': {(2, 199): {}}}
+3 117 {'contraction': {(2, 245): {}}}
+3 14 {}
+3 40 {'contraction': {(2, 139): {}}}
+3 90 {'contraction': {(2, 216): {'contraction': {(393, 34): {}}}}}
+3 88 {'contraction': {(2, 214): {'contraction': {(16, 465): {}}}}}
+3 27 {'contraction': {(2, 103): {}}}
+3 49 {'contraction': {(2, 155): {'contraction': {(148, 2): {'contraction': {(16, 369): {}}}}}}}
+3 28 {'contraction': {(37, 34): {}}}
+3 13 {}
+3 57 {'contraction': {(2, 165): {}}}
+3 8 {'contraction': {(2, 32): {}}}
+3 38 {}
+3 102 {}
+3 124 {'contraction': {(70, 2): {}}}
+3 54 {'contraction': {(16, 392): {}, (111, 2): {}}}
+3 44 {}
+3 11 {'contraction': {(16, 147): {}, (0, 14): {'contraction': {(0, 57): {'contraction': {(37, 0): {}}}, (2, 0): {'contraction': {(0, 22): {}}}}}}}
+3 84 {'contraction': {(16, 459): {}}}
+3 22 {'contraction': {(16, 267): {}}}
+3 103 {}
+3 9 {}
+3 25 {}
+3 121 {'contraction': {(128, 2): {}}}
+3 105 {'contraction': {(69, 2): {}}}
+3 37 {'contraction': {(18, 2): {}}}
+3 83 {}
+3 100 {}
+3 78 {}
+3 30 {'contraction': {(91, 2): {}}}
+3 70 {}
+3 94 {}
+3 87 {}
+3 104 {}
+3 122 {}
+3 63 {}
+3 97 {'contraction': {(16, 270): {}}}
+3 58 {}
+3 18 {}
+3 6 {}
+4 50 {'contraction': {(154, 17): {}}}
+4 100 {'contraction': {(16, 228): {}}}
+4 4 {'contraction': {(25, 25): {}, (25, 77): {'contraction': {(17, 94): {}}}, (16, 16): {'contraction': {(68, 68): {}, (68, 72): {}}}, (16, 17): {}}}
+4 13 {'contraction': {(16, 51): {}}}
+4 43 {'contraction': {(16, 142): {}}}
+4 116 {}
+4 58 {'contraction': {(56, 17): {}}}
+4 12 {'contraction': {(25, 169): {}}}
+4 121 {'contraction': {(128, 17): {}}}
+4 89 {}
+4 108 {'contraction': {(16, 236): {'contraction': {(483, 72): {}}}}}
+4 63 {'contraction': {(25, 413): {}}}
+4 93 {}
+4 15 {}
+4 40 {}
+4 61 {'contraction': {(16, 171): {}}}
+4 11 {'contraction': {(41, 77): {}, (16, 38): {}, (0, 17): {'contraction': {(0, 77): {}, (16, 0): {'contraction': {(0, 72): {}}}}}}}
+4 123 {}
+4 120 {'contraction': {(16, 248): {}}}
+4 22 {'contraction': {(16, 85): {}}}
+4 72 {}
+4 48 {'contraction': {(78, 17): {'contraction': {(133, 77): {}}}, (16, 153): {'contraction': {(78, 16): {}}}}}
+4 49 {'contraction': {(148, 17): {}}}
+4 32 {'contraction': {(28, 17): {}}}
+4 6 {'contraction': {(25, 2): {}, (16, 25): {}, (13, 17): {}}}
+4 66 {}
+4 75 {}
+4 38 {'contraction': {(25, 255): {}}}
+4 102 {'contraction': {(16, 230): {'contraction': {(256, 68): {}}}}}
+4 36 {}
+4 80 {}
+4 112 {'contraction': {(16, 240): {'contraction': {(262, 68): {}}}}}
+4 64 {}
+4 46 {}
+4 29 {}
+4 124 {}
+4 126 {}
+4 97 {}
+4 34 {}
+4 53 {}
+4 16 {}
+4 10 {'contraction': {(16, 36): {}}}
+4 104 {'contraction': {(181, 16): {}}}
+4 92 {}
+4 87 {}
+4 31 {}
+4 69 {}
+4 118 {'contraction': {(218, 16): {}}}
+4 47 {}
+4 5 {}
+4 86 {'contraction': {(91, 425): {}}}
+4 98 {'contraction': {(68, 299): {'contraction': {(261, 68): {}}}}}
+4 82 {}
+4 78 {}
+4 30 {}
+4 111 {}
+4 25 {}
+4 9 {}
+4 88 {}
+4 44 {}
+4 19 {}
+4 57 {}
+4 20 {'contraction': {(16, 15): {'contraction': {(68, 70): {}}}}}
+4 23 {}
+4 7 {}
+5 64 {'contraction': {(9, 175): {}}}
+5 91 {'contraction': {(144, 23): {}, (9, 217): {}}}
+5 54 {'contraction': {(111, 23): {}}}
+5 5 {'contraction': {(8, 8): {}, (8, 92): {}, (9, 9): {'contraction': {(13, 13): {}, (13, 47): {}}}, (9, 23): {'contraction': {(8, 13): {}}}}}
+5 62 {'contraction': {(35, 23): {}, (9, 172): {}}}
+5 87 {}
+5 114 {'contraction': {(8, 498): {}, (9, 242): {'contraction': {(189, 9): {}}}}}
+5 36 {'contraction': {(9, 132): {}}}
+5 42 {'contraction': {(9, 141): {}}}
+5 18 {}
+5 72 {}
+5 10 {}
+5 33 {'contraction': {(9, 125): {}}}
+5 44 {'contraction': {(81, 92): {}, (8, 362): {'contraction': {(81, 8): {}}}, (9, 143): {}}}
+5 11 {'contraction': {(8, 147): {}, (41, 92): {}, (9, 38): {}, (0, 23): {'contraction': {(0, 92): {'contraction': {(8, 0): {}}}, (9, 0): {'contraction': {(13, 6): {'contraction': {(20, 7): {}}}, (0, 47): {'contraction': {(13, 0): {}}}}}}}}}
+5 101 {'contraction': {(9, 229): {}}}
+5 109 {'contraction': {(9, 237): {}}}
+5 124 {'contraction': {(9, 252): {}}}
+5 58 {'contraction': {(8, 404): {}, (56, 23): {}}}
+5 24 {'contraction': {(9, 95): {}}}
+5 34 {}
+5 49 {}
+5 28 {}
+5 15 {'contraction': {(8, 207): {'contraction': {(45, 604): {}}}, (26, 23): {}}}
+5 70 {}
+5 111 {'contraction': {(178, 23): {}, (9, 239): {'contraction': {(611, 20): {}}}}}
+5 120 {}
+5 29 {'contraction': {(60, 23): {}, (9, 116): {}}}
+5 73 {'contraction': {(133, 23): {}, (9, 194): {}}}
+5 122 {'contraction': {(798, 45): {}, (9, 250): {}}}
+5 75 {'contraction': {(150, 23): {}, (9, 198): {}}}
+5 55 {}
+5 38 {'contraction': {(80, 23): {'contraction': {(8, 255): {}}}}}
+5 22 {'contraction': {(63, 23): {}, (9, 85): {'contraction': {(63, 9): {}}}}}
+5 88 {}
+5 8 {'contraction': {(19, 23): {}, (9, 32): {}}}
+5 26 {'contraction': {(9, 98): {}}}
+5 98 {}
+5 119 {}
+5 125 {}
+5 104 {'contraction': {(9, 232): {}}}
+5 108 {'contraction': {(8, 451): {}, (9, 236): {}}}
+5 92 {}
+5 83 {'contraction': {(9, 208): {}}}
+5 68 {'contraction': {(45, 861): {}}}
+5 126 {'contraction': {(9, 254): {}}}
+5 65 {}
+5 96 {}
+5 61 {'contraction': {(9, 171): {}}}
+5 35 {'contraction': {(9, 130): {}}}
+5 40 {}
+5 41 {}
+5 9 {'contraction': {(9, 33): {}}}
+5 43 {}
+5 103 {'contraction': {(9, 231): {'contraction': {(13, 485): {'contraction': {(20, 997): {}}}, (52, 9): {}}}}}
+5 37 {'contraction': {(79, 92): {}, (9, 135): {}}}
+5 17 {'contraction': {(9, 65): {}}}
+5 16 {'contraction': {(45, 362): {}}}
+5 20 {'contraction': {(9, 79): {}}}
+5 39 {'contraction': {(112, 9): {}}}
+5 97 {}
+5 76 {}
+5 12 {}
+5 52 {'contraction': {(101, 9): {}}}
+5 118 {}
+5 102 {}
+5 115 {'contraction': {(20, 1011): {}, (122, 9): {}}}
+5 66 {'contraction': {(314, 13): {}}}
+5 13 {'contraction': {(123, 13): {}, (48, 9): {}}}
+5 94 {}
+5 86 {'contraction': {(72, 9): {}}}
+5 46 {}
+5 59 {}
+5 21 {'contraction': {(77, 9): {'contraction': {(20, 673): {}}}}}
+5 53 {}
+5 7 {}
+5 84 {'contraction': {(359, 13): {}}}
+5 67 {}
+5 80 {}
+5 51 {}
+5 63 {'contraction': {(13, 260): {}}}
+5 74 {}
+5 113 {}
+5 25 {}
+5 31 {}
+5 90 {}
+5 32 {}
+5 6 {'contraction': {(4, 92): {'contraction': {(8, 4): {}}}, (9, 13): {}}}
+6 107 {'contraction': {(13, 235): {'contraction': {(677, 6): {}}}}}
+6 88 {'contraction': {(13, 214): {'contraction': {(37, 13): {'contraction': {(112, 56): {}, (4, 140): {}}}}}}}
+6 6 {'contraction': {(2, 2): {}, (2, 99): {}, (13, 13): {'contraction': {(4, 56): {'contraction': {(23, 217): {}}}, (4, 4): {}}}, (13, 25): {}}}
+6 126 {'contraction': {(93, 25): {}}}
+6 79 {}
+6 52 {}
+6 56 {'contraction': {(13, 164): {'contraction': {(4, 226): {}}}}}
+6 109 {'contraction': {(13, 237): {}}}
+6 38 {}
+6 41 {}
+6 97 {'contraction': {(2, 478): {}, (87, 25): {}, (13, 225): {'contraction': {(87, 13): {}}}}}
+6 26 {'contraction': {(2, 290): {}}}
+6 123 {}
+6 48 {'contraction': {(78, 25): {'contraction': {(2, 248): {}}}}}
+6 11 {'contraction': {(3, 461): {}, (13, 38): {'contraction': {(41, 56): {}}}, (0, 25): {'contraction': {(2, 6): {'contraction': {(3, 7): {}}}, (0, 99): {'contraction': {(3, 0): {}}}, (13, 0): {'contraction': {(0, 56): {'contraction': {(0, 217): {}, (4, 0): {'contraction': {(0, 26): {}}}}}}}}}}}
+6 21 {'contraction': {(77, 25): {}, (13, 84): {'contraction': {(77, 13): {}}}}}
+6 54 {}
+6 39 {'contraction': {(111, 2): {}, (13, 138): {}}}
+6 63 {'contraction': {(83, 25): {}}}
+6 94 {'contraction': {(13, 221): {}}}
+6 111 {'contraction': {(13, 239): {}}}
+6 78 {'contraction': {(106, 25): {'contraction': {(274, 2): {}}}}}
+6 121 {'contraction': {(128, 25): {'contraction': {(2, 341): {}}}, (13, 249): {}}}
+6 87 {'contraction': {(151, 25): {}, (13, 213): {'contraction': {(151, 13): {}}}}}
+6 96 {'contraction': {(13, 223): {'contraction': {(41, 13): {}}}}}
+6 68 {}
+6 119 {}
+6 100 {'contraction': {(166, 25): {}, (13, 228): {}}}
+6 31 {'contraction': {(13, 121): {'contraction': {(4, 297): {}}}}}
+6 37 {}
+6 24 {}
+6 43 {'contraction': {(13, 142): {'contraction': {(97, 13): {}}}}}
+6 19 {'contraction': {(13, 76): {'contraction': {(40, 13): {}}}}}
+6 8 {'contraction': {(19, 25): {'contraction': {(2, 85): {}}}, (13, 32): {'contraction': {(19, 13): {}}}}}
+6 23 {'contraction': {(13, 86): {'contraction': {(4, 268): {}, (22, 13): {}}}}}
+6 66 {'contraction': {(13, 180): {'contraction': {(4, 421): {'contraction': {(625, 23): {}}}}}}}
+6 30 {}
+6 77 {}
+6 114 {'contraction': {(309, 2): {}, (13, 242): {}}}
+6 67 {}
+6 75 {}
+6 80 {'contraction': {(13, 205): {}}}
+6 92 {'contraction': {(46, 2): {}, (13, 219): {}}}
+6 81 {}
+6 83 {}
+6 65 {'contraction': {(13, 177): {'contraction': {(55, 56): {}}}}}
+6 61 {'contraction': {(13, 171): {'contraction': {(4, 410): {}, (81, 13): {}}}}}
+6 35 {}
+6 40 {'contraction': {(13, 139): {}}}
+6 90 {}
+6 9 {}
+6 103 {}
+6 34 {'contraction': {(13, 126): {'contraction': {(4, 337): {}}}}}
+6 33 {}
+6 28 {'contraction': {(21, 2): {}, (13, 114): {}}}
+6 53 {'contraction': {(13, 160): {'contraction': {(73, 56): {}, (4, 86): {'contraction': {(33, 23): {}, (73, 4): {}}}}}}}
+6 57 {'contraction': {(13, 165): {'contraction': {(24, 13): {}}}}}
+6 16 {'contraction': {(13, 64): {'contraction': {(27, 13): {}}}}}
+6 10 {'contraction': {(13, 36): {'contraction': {(4, 53): {}}}}}
+6 12 {'contraction': {(13, 45): {'contraction': {(11, 13): {}}}}}
+6 20 {'contraction': {(13, 79): {'contraction': {(6, 682): {}, (15, 13): {'contraction': {(4, 70): {'contraction': {(12, 4): {}}}}}}}}}
+6 112 {}
+6 104 {'contraction': {(4, 486): {}}}
+6 27 {'contraction': {(197, 56): {}}}
+6 125 {}
+6 45 {'contraction': {(4, 365): {}}}
+6 46 {'contraction': {(4, 368): {}}}
+6 64 {}
+6 102 {}
+6 29 {}
+6 117 {}
+6 42 {'contraction': {(4, 360): {}}}
+6 15 {'contraction': {(38, 4): {}}}
+6 99 {}
+6 18 {}
+6 14 {}
+6 86 {}
+6 105 {}
+6 62 {}
+6 110 {'contraction': {(75, 13): {}}}
+6 36 {'contraction': {(46, 13): {'contraction': {(4, 174): {}}}}}
+6 72 {}
+6 101 {'contraction': {(356, 4): {}}}
+6 22 {}
+6 71 {}
+6 50 {}
+6 69 {}
+6 74 {}
+6 25 {}
+6 55 {}
+6 44 {}
+6 13 {}
+6 17 {}
+6 32 {}
+6 47 {'contraction': {(9, 4): {}}}
+6 7 {}
+7 19 {'contraction': {(63, 122): {}, (40, 30): {}, (4, 76): {'contraction': {(1, 150): {}}}}}
+7 41 {'contraction': {(120, 30): {}}}
+7 93 {'contraction': {(149, 30): {}, (4, 220): {'contraction': {(1, 370): {'contraction': {(442, 8): {}}}}}}}
+7 50 {'contraction': {(31, 387): {}, (154, 30): {}, (4, 157): {}}}
+7 13 {'contraction': {(48, 30): {}}}
+7 7 {'contraction': {(31, 122): {}, (31, 31): {}, (4, 4): {'contraction': {(1, 24): {}, (1, 1): {}}}, (4, 30): {}}}
+7 16 {'contraction': {(4, 64): {'contraction': {(1, 220): {}, (27, 4): {}}}}}
+7 104 {}
+7 98 {'contraction': {(4, 226): {}}}
+7 84 {'contraction': {(4, 210): {}}}
+7 118 {'contraction': {(160, 150): {}, (218, 30): {}}}
+7 91 {}
+7 22 {'contraction': {(4, 85): {}}}
+7 21 {'contraction': {(31, 264): {'contraction': {(44, 31): {'contraction': {(22, 186): {}}}}}, (77, 30): {}}}
+7 82 {'contraction': {(395, 31): {}, (4, 207): {}}}
+7 71 {'contraction': {(127, 30): {'contraction': {(146, 31): {}}}}}
+7 35 {}
+7 105 {'contraction': {(22, 999): {}, (69, 30): {'contraction': {(74, 31): {}}}, (4, 233): {}}}
+7 49 {'contraction': {(148, 30): {}}}
+7 28 {'contraction': {(22, 794): {}, (4, 114): {}}}
+7 23 {'contraction': {(22, 713): {}, (66, 31): {}, (4, 86): {'contraction': {(8, 713): {}, (22, 4): {}}}}}
+7 8 {'contraction': {(103, 31): {}, (19, 30): {}, (4, 32): {}}}
+7 24 {'contraction': {(4, 95): {'contraction': {(58, 4): {}}}}}
+7 33 {'contraction': {(94, 30): {}, (4, 125): {}}}
+7 47 {'contraction': {(21, 30): {}, (4, 152): {'contraction': {(1, 87): {}}}}}
+7 77 {}
+7 113 {'contraction': {(4, 241): {}}}
+7 10 {'contraction': {(4, 36): {'contraction': {(12, 4): {'contraction': {(1, 53): {}}}}}}}
+7 15 {'contraction': {(4, 59): {'contraction': {(26, 4): {}}}}}
+7 20 {'contraction': {(15, 30): {}, (4, 79): {'contraction': {(15, 4): {'contraction': {(12, 1): {}}}}}}}
+7 106 {}
+7 46 {}
+7 111 {}
+7 69 {'contraction': {(107, 30): {}, (4, 190): {}}}
+7 58 {'contraction': {(56, 30): {}, (4, 168): {'contraction': {(56, 4): {'contraction': {(1, 202): {}}}}}}}
+7 14 {}
+7 48 {'contraction': {(78, 30): {}}}
+7 88 {}
+7 70 {}
+7 119 {'contraction': {(31, 344): {}}}
+7 95 {}
+7 107 {'contraction': {(254, 122): {}}}
+7 114 {}
+7 67 {}
+7 80 {'contraction': {(4, 205): {'contraction': {(50, 4): {'contraction': {(8, 539): {}}}}}}}
+7 116 {'contraction': {(4, 244): {}}}
+7 81 {'contraction': {(4, 206): {}}}
+7 109 {'contraction': {(84, 31): {}, (4, 237): {}}}
+7 68 {}
+7 63 {}
+7 60 {'contraction': {(4, 170): {'contraction': {(55, 4): {'contraction': {(1, 196): {}}}}}}}
+7 62 {'contraction': {(31, 138): {}, (4, 172): {}}}
+7 39 {'contraction': {(4, 138): {'contraction': {(112, 4): {}}}}}
+7 25 {'contraction': {(4, 96): {'contraction': {(88, 4): {}}}}}
+7 31 {'contraction': {(4, 121): {'contraction': {(102, 4): {}}}}}
+7 18 {}
+7 40 {'contraction': {(4, 139): {'contraction': {(54, 4): {'contraction': {(1, 195): {'contraction': {(8, 340): {}}}}}}}}}
+7 90 {'contraction': {(4, 216): {}}}
+7 55 {'contraction': {(4, 163): {'contraction': {(154, 1): {}}}}}
+7 26 {'contraction': {(4, 98): {}}}
+7 34 {'contraction': {(4, 126): {'contraction': {(8, 504): {}}}}}
+7 37 {}
+7 44 {'contraction': {(29, 31): {}, (4, 143): {'contraction': {(1, 362): {}}}}}
+7 53 {'contraction': {(4, 160): {'contraction': {(20, 4): {}}}}}
+7 17 {'contraction': {(4, 65): {}}}
+7 12 {'contraction': {(35, 31): {}, (4, 45): {}}}
+7 94 {}
+7 79 {'contraction': {(185, 4): {'contraction': {(8, 933): {}}}}}
+7 124 {'contraction': {(70, 4): {'contraction': {(338, 113): {}, (1, 228): {}}}}}
+7 9 {}
+7 66 {'contraction': {(115, 4): {}}}
+7 85 {}
+7 38 {'contraction': {(1, 352): {}, (80, 4): {}}}
+7 65 {}
+7 103 {'contraction': {(52, 4): {}}}
+7 43 {'contraction': {(97, 4): {}}}
+7 121 {}
+7 52 {'contraction': {(101, 4): {}}}
+7 76 {}
+7 32 {}
+7 126 {}
+7 112 {'contraction': {(57, 4): {}}}
+7 115 {}
+7 45 {'contraction': {(8, 812): {}}}
+7 86 {}
+7 110 {}
+7 87 {}
+7 30 {}
+7 101 {}
+7 73 {}
+7 102 {'contraction': {(1, 476): {}}}
+7 36 {}
+7 108 {}
+7 122 {'contraction': {(430, 113): {}, (1, 223): {}}}
+7 89 {}
+7 92 {}
+7 64 {}
+7 83 {}
+7 29 {'contraction': {(1, 209): {}}}
+7 61 {}
+7 42 {}
+7 54 {}
+7 27 {'contraction': {(1, 177): {}}}
+7 57 {}
+7 11 {'contraction': {(0, 122): {}, (4, 0): {'contraction': {(1, 6): {'contraction': {(8, 7): {}}}, (0, 24): {'contraction': {(66, 9): {}, (1, 0): {'contraction': {(0, 14): {}}}}}}}}}
+8 87 {'contraction': {(19, 213): {}}}
+8 8 {'contraction': {(103, 127): {}, (103, 103): {}, (19, 19): {'contraction': {(33, 33): {}, (33, 85): {}}}, (19, 32): {}}}
+8 104 {'contraction': {(19, 232): {}}}
+8 95 {'contraction': {(173, 32): {}}}
+8 92 {}
+8 120 {}
+8 108 {'contraction': {(19, 236): {}}}
+8 67 {'contraction': {(302, 103): {}}}
+8 82 {}
+8 64 {}
+8 40 {}
+8 112 {}
+8 50 {}
+8 117 {}
+8 23 {}
+8 70 {'contraction': {(19, 191): {}}}
+8 86 {}
+8 116 {'contraction': {(19, 244): {}}}
+8 124 {}
+8 22 {}
+8 27 {}
+8 29 {}
+8 48 {}
+8 71 {}
+8 49 {}
+8 42 {}
+8 34 {}
+8 12 {}
+8 90 {}
+8 31 {}
+8 43 {}
+8 16 {}
+8 32 {'contraction': {(28, 32): {}}}
+8 47 {}
+8 11 {'contraction': {(0, 32): {'contraction': {(297, 0): {}}}}}
+8 66 {}
+8 45 {}
+8 98 {}
+8 125 {}
+8 85 {}
+8 77 {'contraction': {(33, 354): {}}}
+8 38 {}
+8 36 {}
+8 80 {}
+8 69 {}
+8 109 {}
+8 63 {}
+8 61 {}
+8 39 {}
+8 9 {}
+8 57 {}
+8 15 {}
+9 9 {'contraction': {(120, 120): {}, (120, 130): {}, (29, 29): {'contraction': {(49, 117): {}, (49, 49): {}}}, (29, 33): {}}}
+9 83 {}
+9 11 {'contraction': {(29, 38): {}, (0, 33): {'contraction': {(0, 130): {}, (29, 0): {'contraction': {(49, 6): {}, (0, 117): {}}}}}}}
+9 52 {'contraction': {(101, 33): {}}}
+9 81 {'contraction': {(361, 44): {}}}
+9 98 {}
+9 91 {}
+9 89 {}
+9 41 {}
+9 62 {}
+9 44 {}
+9 23 {'contraction': {(22, 33): {}}}
+9 22 {}
+9 127 {}
+9 68 {}
+9 126 {}
+9 96 {}
+9 61 {}
+9 35 {}
+9 39 {'contraction': {(29, 138): {}}}
+9 101 {}
+9 32 {'contraction': {(14, 117): {'contraction': {(52, 81): {}}}}}
+9 71 {}
+9 30 {}
+9 13 {}
+9 15 {}
+9 47 {}
+9 79 {}
+9 82 {}
+9 46 {}
+9 55 {}
+9 28 {}
+9 53 {}
+9 20 {'contraction': {(120, 70): {}, (12, 130): {}}}
+10 29 {}
+10 93 {'contraction': {(12, 220): {'contraction': {(442, 99): {}}}}}
+10 62 {}
+10 10 {'contraction': {(42, 42): {}, (42, 139): {}, (12, 12): {'contraction': {(43, 53): {}, (43, 43): {}}}, (12, 36): {}}}
+10 30 {'contraction': {(12, 119): {}}}
+10 77 {}
+10 86 {}
+10 109 {'contraction': {(12, 237): {}}}
+10 55 {}
+10 21 {}
+10 22 {}
+10 110 {'contraction': {(75, 36): {}}}
+10 60 {}
+10 20 {'contraction': {(15, 36): {}}}
+10 98 {'contraction': {(104, 36): {}, (12, 226): {}}}
+10 120 {}
+10 101 {'contraction': {(452, 136): {}}}
+10 40 {}
+10 54 {'contraction': {(111, 36): {}}}
+10 34 {'contraction': {(44, 36): {}}}
+10 15 {'contraction': {(26, 36): {'contraction': {(12, 26): {}}}}}
+10 79 {'contraction': {(12, 204): {}}}
+10 82 {}
+10 95 {}
+10 71 {}
+10 124 {}
+10 63 {}
+10 39 {}
+10 97 {'contraction': {(12, 225): {}}}
+10 43 {}
+10 26 {'contraction': {(12, 98): {}}}
+10 103 {'contraction': {(12, 231): {'contraction': {(170, 53): {}}}}}
+10 33 {}
+10 19 {}
+10 27 {'contraction': {(206, 99): {}}}
+10 69 {}
+10 23 {'contraction': {(22, 36): {}}}
+10 11 {'contraction': {(43, 147): {}, (0, 36): {'contraction': {(12, 0): {'contraction': {(43, 0): {'contraction': {(0, 185): {}}}}}}}}}
+10 121 {}
+10 72 {}
+10 67 {}
+10 84 {'contraction': {(196, 12): {}}}
+10 92 {}
+10 75 {}
+10 113 {}
+10 105 {}
+10 12 {}
+10 115 {}
+10 52 {}
+10 56 {}
+10 78 {}
+10 76 {}
+10 58 {}
+10 57 {}
+11 102 {'contraction': {(41, 484): {}, (224, 38): {}, (0, 230): {'contraction': {(0, 476): {}}}}}
+11 117 {'contraction': {(89, 38): {}, (0, 245): {'contraction': {(89, 0): {}}}}}
+11 82 {'contraction': {(0, 207): {}}}
+11 100 {'contraction': {(340, 147): {}, (166, 38): {}, (0, 228): {}}}
+11 20 {'contraction': {(0, 79): {'contraction': {(0, 249): {'contraction': {(11, 0): {}}}, (15, 0): {'contraction': {(7, 260): {}, (12, 6): {'contraction': {(7, 75): {}}}, (0, 70): {'contraction': {(12, 0): {}}}}}}}}}
+11 11 {'contraction': {(41, 41): {}, (41, 147): {}, (0, 38): {'contraction': {(0, 147): {}}}, (0, 0): {'contraction': {(0, 6): {'contraction': {(7, 9): {'contraction': {(0, 7): {}}}}}}}}}
+11 38 {'contraction': {(245, 147): {}, (80, 38): {}}}
+11 72 {'contraction': {(0, 193): {}}}
+11 121 {'contraction': {(41, 505): {}, (0, 249): {}}}
+11 119 {'contraction': {(129, 38): {'contraction': {(286, 147): {}, (41, 344): {}}}, (0, 247): {}}}
+11 30 {'contraction': {(137, 147): {}, (41, 325): {}, (0, 119): {'contraction': {(0, 325): {}, (91, 0): {'contraction': {(0, 279): {}}}}}}}
+11 61 {'contraction': {(81, 38): {}}}
+11 76 {'contraction': {(176, 38): {}, (0, 199): {'contraction': {(326, 6): {}, (176, 0): {}}}}}
+11 57 {'contraction': {(41, 398): {}, (0, 165): {'contraction': {(24, 0): {'contraction': {(0, 98): {}}}}}}}
+11 23 {'contraction': {(0, 86): {'contraction': {(7, 713): {}, (0, 268): {'contraction': {(2, 9): {}, (0, 713): {}, (66, 0): {}}}}}}}
+11 109 {}
+11 118 {'contraction': {(0, 246): {'contraction': {(0, 502): {}}}}}
+11 90 {'contraction': {(73, 38): {}, (0, 216): {'contraction': {(73, 0): {}}}}}
+11 25 {'contraction': {(0, 96): {'contraction': {(76, 0): {'contraction': {(187, 0): {}}}}}}}
+11 44 {'contraction': {(0, 143): {'contraction': {(97, 32): {}, (0, 362): {}, (61, 0): {}}}}}
+11 110 {'contraction': {(463, 41): {}, (75, 38): {}, (0, 238): {'contraction': {(75, 0): {}}}}}
+11 73 {'contraction': {(133, 38): {}, (0, 194): {'contraction': {(133, 0): {}}}}}
+11 83 {'contraction': {(47, 967): {}}}
+11 105 {'contraction': {(69, 38): {}, (0, 233): {'contraction': {(74, 0): {}}}}}
+11 12 {'contraction': {(11, 38): {'contraction': {(41, 51): {}}}, (0, 45): {'contraction': {(12, 7): {}, (0, 169): {'contraction': {(17, 0): {}}}, (11, 0): {'contraction': {(35, 6): {}, (0, 51): {}}}}}}}
+11 68 {'contraction': {(167, 38): {'contraction': {(373, 147): {}}}, (0, 187): {}}}
+11 127 {'contraction': {(0, 255): {'contraction': {(82, 0): {}}}}}
+11 63 {'contraction': {(0, 174): {}}}
+11 54 {'contraction': {(366, 41): {}, (0, 162): {}}}
+11 95 {'contraction': {(0, 222): {'contraction': {(0, 412): {}}}}}
+11 125 {'contraction': {(0, 253): {'contraction': {(99, 0): {}}}}}
+11 126 {'contraction': {(93, 38): {}, (0, 254): {}}}
+11 29 {}
+11 59 {'contraction': {(146, 38): {'contraction': {(41, 367): {}}}, (0, 169): {'contraction': {(0, 907): {}}}}}
+11 96 {'contraction': {(0, 223): {}}}
+11 65 {'contraction': {(300, 47): {}}}
+11 42 {'contraction': {(118, 38): {}, (0, 141): {}}}
+11 13 {'contraction': {(48, 38): {'contraction': {(41, 180): {}}}, (0, 51): {}}}
+11 16 {'contraction': {(0, 64): {'contraction': {(136, 0): {}, (27, 0): {'contraction': {(0, 263): {}}}}}}}
+11 32 {'contraction': {(0, 124): {'contraction': {(0, 333): {}}}}}
+11 47 {'contraction': {(0, 152): {'contraction': {(7, 37): {}, (0, 376): {'contraction': {(7, 0): {'contraction': {(0, 37): {}}}}}, (21, 0): {'contraction': {(0, 87): {}}}}}}}
+11 66 {'contraction': {(0, 180): {'contraction': {(314, 0): {}}}}}
+11 45 {'contraction': {(41, 331): {'contraction': {(47, 415): {}}}, (0, 145): {'contraction': {(123, 0): {'contraction': {(7, 415): {}}}}}}}
+11 98 {}
+11 79 {'contraction': {(0, 204): {}}}
+11 78 {'contraction': {(0, 202): {}}}
+11 104 {'contraction': {(153, 147): {}, (41, 422): {}, (0, 232): {}}}
+11 101 {'contraction': {(0, 229): {'contraction': {(161, 0): {}}}}}
+11 85 {'contraction': {(0, 211): {'contraction': {(0, 312): {}}}}}
+11 67 {'contraction': {(0, 182): {'contraction': {(90, 0): {'contraction': {(0, 278): {'contraction': {(94, 0): {}}}}}}}}}
+11 22 {'contraction': {(0, 85): {'contraction': {(63, 0): {'contraction': {(497, 0): {}}}}}}}
+11 50 {}
+11 51 {'contraction': {(0, 158): {'contraction': {(166, 0): {}, (109, 0): {'contraction': {(265, 6): {'contraction': {(416, 7): {}}}}}}}}}
+11 112 {'contraction': {(0, 240): {}}}
+11 92 {'contraction': {(41, 184): {}, (0, 219): {}}}
+11 46 {'contraction': {(0, 147): {'contraction': {(39, 0): {'contraction': {(0, 148): {}}}}}}}
+11 69 {'contraction': {(41, 307): {}, (0, 190): {'contraction': {(519, 0): {}}}}}
+11 81 {}
+11 124 {}
+11 74 {'contraction': {(0, 195): {'contraction': {(100, 0): {'contraction': {(288, 6): {}}}}}}}
+11 60 {'contraction': {(41, 196): {}, (0, 170): {'contraction': {(55, 0): {}}}}}
+11 18 {'contraction': {(0, 71): {'contraction': {(0, 164): {}}}}}
+11 41 {'contraction': {(0, 140): {'contraction': {(120, 0): {'contraction': {(0, 327): {}}}}}}}
+11 88 {'contraction': {(0, 214): {'contraction': {(0, 976): {}, (37, 0): {'contraction': {(0, 140): {}}}}}}}
+11 55 {'contraction': {(0, 163): {'contraction': {(116, 6): {}, (0, 394): {}}}}}
+11 43 {'contraction': {(0, 142): {'contraction': {(97, 0): {}}}}}
+11 26 {'contraction': {(41, 280): {}, (0, 98): {'contraction': {(92, 0): {}}}}}
+11 34 {'contraction': {(0, 126): {'contraction': {(44, 0): {}}}}}
+11 28 {'contraction': {(0, 114): {'contraction': {(19, 6): {'contraction': {(7, 98): {}}}, (7, 0): {'contraction': {(7, 104): {}, (0, 34): {'contraction': {(0, 151): {}}}}}}}}}
+11 15 {'contraction': {(0, 59): {'contraction': {(0, 207): {}, (26, 0): {'contraction': {(40, 6): {}, (0, 108): {'contraction': {(40, 0): {'contraction': {(0, 173): {}}}}}}}}}}}
+11 111 {'contraction': {(492, 6): {}}}
+11 48 {}
+11 75 {'contraction': {(150, 0): {'contraction': {(426, 7): {}}}}}
+11 87 {'contraction': {(405, 6): {}, (151, 0): {}}}
+11 37 {'contraction': {(0, 351): {}, (18, 0): {'contraction': {(7, 278): {}, (0, 83): {'contraction': {(0, 290): {}}}}}}}
+11 103 {'contraction': {(203, 6): {}}}
+11 33 {'contraction': {(94, 0): {}}}
+11 52 {'contraction': {(101, 0): {'contraction': {(215, 6): {}}}}}
+11 84 {'contraction': {(196, 0): {'contraction': {(0, 845): {}}}}}
+11 123 {}
+11 77 {'contraction': {(137, 0): {}}}
+11 80 {'contraction': {(50, 0): {'contraction': {(0, 187): {}}}}}
+11 108 {'contraction': {(291, 7): {}, (203, 0): {'contraction': {(0, 451): {}}}}}
+11 31 {'contraction': {(0, 329): {}}}
+11 24 {'contraction': {(0, 284): {'contraction': {(163, 0): {}}}}}
+11 19 {'contraction': {(40, 0): {}}}
+11 36 {'contraction': {(46, 0): {}}}
+11 40 {'contraction': {(54, 0): {}}}
+11 56 {}
+11 106 {}
+11 99 {'contraction': {(420, 0): {}, (188, 0): {}}}
+11 21 {'contraction': {(44, 0): {}, (77, 0): {}}}
+11 70 {'contraction': {(31, 0): {'contraction': {(387, 7): {}, (0, 126): {}}}}}
+11 91 {'contraction': {(0, 791): {}, (144, 0): {'contraction': {(7, 564): {}, (0, 364): {'contraction': {(0, 564): {}}}}}}}
+11 113 {}
+11 35 {'contraction': {(105, 0): {}}}
+11 39 {'contraction': {(112, 0): {}}}
+11 97 {}
+11 14 {'contraction': {(34, 0): {'contraction': {(0, 132): {'contraction': {(0, 272): {}}}}}}}
+11 27 {}
+11 53 {'contraction': {(20, 0): {'contraction': {(0, 86): {'contraction': {(73, 0): {}}}}}}}
+11 17 {'contraction': {(42, 0): {'contraction': {(0, 160): {}}}}}
+11 86 {'contraction': {(131, 6): {}, (0, 232): {}}}
+11 94 {'contraction': {(0, 350): {}}}
+11 114 {'contraction': {(309, 6): {}}}
+11 122 {'contraction': {(0, 223): {'contraction': {(144, 0): {}}}}}
+11 116 {}
+11 89 {}
+11 64 {'contraction': {(110, 6): {}, (0, 224): {}}}
+11 62 {'contraction': {(64, 0): {'contraction': {(0, 245): {}}}}}
+11 58 {'contraction': {(0, 202): {}}}
+11 49 {}
+12 65 {'contraction': {(382, 169): {}, (17, 417): {}}}
+12 34 {'contraction': {(11, 126): {}}}
+12 12 {'contraction': {(17, 17): {}, (17, 169): {}, (11, 11): {'contraction': {(35, 35): {}, (35, 51): {}}}, (11, 45): {}}}
+12 66 {'contraction': {(115, 45): {}}}
+12 93 {'contraction': {(17, 471): {}}}
+12 25 {'contraction': {(11, 96): {}}}
+12 88 {'contraction': {(37, 45): {}, (11, 214): {}}}
+12 33 {}
+12 106 {'contraction': {(201, 45): {}}}
+12 79 {}
+12 124 {'contraction': {(11, 252): {}}}
+12 108 {'contraction': {(11, 236): {}}}
+12 58 {}
+12 41 {'contraction': {(17, 358): {}, (11, 140): {}}}
+12 97 {}
+12 19 {}
+12 53 {'contraction': {(11, 160): {}}}
+12 69 {'contraction': {(107, 45): {}}}
+12 116 {'contraction': {(438, 17): {}}}
+12 26 {'contraction': {(11, 98): {}}}
+12 35 {}
+12 46 {}
+12 110 {'contraction': {(17, 238): {}, (11, 238): {}}}
+12 78 {}
+12 30 {'contraction': {(11, 119): {'contraction': {(35, 325): {'contraction': {(137, 35): {}}}}}}}
+12 67 {'contraction': {(11, 182): {}}}
+12 75 {'contraction': {(358, 114): {}}}
+12 64 {'contraction': {(11, 175): {}}}
+12 61 {'contraction': {(17, 257): {}}}
+12 90 {'contraction': {(11, 216): {}}}
+12 48 {'contraction': {(11, 153): {}}}
+12 27 {'contraction': {(17, 177): {}}}
+12 37 {'contraction': {(11, 135): {}}}
+12 49 {'contraction': {(11, 155): {}}}
+12 44 {'contraction': {(17, 211): {}, (11, 143): {}}}
+12 28 {'contraction': {(17, 34): {}}}
+12 17 {'contraction': {(11, 65): {'contraction': {(42, 11): {}}}}}
+12 16 {}
+12 47 {'contraction': {(11, 152): {'contraction': {(21, 11): {}}}}}
+12 74 {}
+12 59 {}
+12 100 {}
+12 103 {}
+12 50 {}
+12 32 {'contraction': {(14, 35): {}}}
+12 54 {'contraction': {(4, 887): {}}}
+12 114 {}
+12 36 {'contraction': {(46, 11): {}}}
+12 18 {}
+12 57 {}
+12 20 {'contraction': {(15, 45): {'contraction': {(11, 15): {}}}}}
+12 23 {'contraction': {(22, 45): {'contraction': {(35, 78): {}}}}}
+12 72 {}
+12 77 {'contraction': {(4, 510): {}}}
+12 38 {'contraction': {(90, 35): {}}}
+12 112 {}
+12 109 {}
+12 21 {}
+12 40 {}
+12 24 {}
+12 13 {}
+13 108 {}
+13 13 {'contraction': {(123, 123): {}, (123, 188): {}, (48, 48): {'contraction': {(69, 69): {}, (69, 180): {}}}, (48, 51): {}}}
+13 90 {'contraction': {(48, 216): {}}}
+13 111 {}
+13 75 {}
+13 104 {}
+13 82 {}
+13 113 {'contraction': {(48, 241): {'contraction': {(62, 48): {}}}}}
+13 122 {}
+13 66 {}
+13 56 {}
+13 86 {}
+13 18 {}
+13 76 {'contraction': {(48, 199): {}}}
+13 28 {}
+13 15 {'contraction': {(48, 59): {}}}
+13 45 {}
+13 118 {}
+13 116 {}
+13 124 {'contraction': {(48, 252): {}}}
+13 74 {}
+13 117 {}
+13 55 {'contraction': {(48, 163): {}}}
+13 26 {}
+13 35 {'contraction': {(105, 48): {'contraction': {(69, 300): {}}}}}
+13 39 {}
+13 79 {}
+13 58 {}
+13 97 {}
+13 44 {'contraction': {(61, 48): {}}}
+13 125 {}
+13 77 {}
+13 121 {}
+13 51 {}
+13 112 {}
+13 92 {}
+13 68 {}
+13 126 {}
+13 88 {}
+13 27 {}
+13 16 {}
+13 32 {}
+13 47 {'contraction': {(48, 21): {}}}
+13 23 {'contraction': {(69, 78): {'contraction': {(38, 57): {}}}}}
+14 91 {}
+14 14 {'contraction': {(124, 124): {}, (124, 193): {}, (34, 53): {}, (34, 34): {'contraction': {(75, 75): {}, (75, 132): {}}}}}
+14 86 {'contraction': {(34, 212): {}}}
+14 104 {}
+14 70 {}
+14 90 {'contraction': {(34, 216): {}, (73, 53): {}}}
+14 34 {'contraction': {(44, 53): {}}}
+14 57 {}
+14 47 {'contraction': {(21, 53): {}}}
+14 125 {}
+14 94 {}
+14 102 {}
+14 81 {}
+14 126 {'contraction': {(34, 254): {}}}
+14 114 {}
+14 43 {}
+14 95 {}
+14 105 {'contraction': {(69, 53): {}}}
+14 29 {}
+14 41 {}
+14 33 {}
+14 93 {}
+14 50 {}
+14 18 {}
+14 44 {}
+14 53 {'contraction': {(34, 20): {}}}
+14 15 {}
+15 85 {'contraction': {(110, 59): {}, (26, 211): {}}}
+15 53 {}
+15 15 {'contraction': {(38, 38): {}, (38, 207): {}, (26, 26): {'contraction': {(40, 40): {}, (40, 108): {}}}, (26, 59): {}}}
+15 110 {}
+15 19 {'contraction': {(26, 76): {}}}
+15 43 {}
+15 44 {}
+15 105 {'contraction': {(26, 233): {'contraction': {(74, 108): {}}}}}
+15 25 {}
+15 109 {}
+15 67 {'contraction': {(26, 182): {}}}
+15 102 {'contraction': {(26, 230): {'contraction': {(130, 689): {}}}}}
+15 59 {'contraction': {(26, 169): {}}}
+15 76 {}
+15 42 {}
+15 54 {'contraction': {(26, 162): {}}}
+15 107 {'contraction': {(254, 207): {}}}
+15 101 {}
+15 75 {}
+15 22 {'contraction': {(281, 101): {}}}
+15 122 {'contraction': {(26, 250): {}}}
+15 116 {}
+15 96 {'contraction': {(26, 223): {'contraction': {(134, 40): {}}}}}
+15 62 {}
+15 40 {'contraction': {(26, 139): {}}}
+15 27 {}
+15 26 {'contraction': {(26, 98): {'contraction': {(92, 26): {}}}}}
+15 37 {}
+15 33 {'contraction': {(26, 125): {}}}
+15 49 {}
+15 28 {}
+15 38 {}
+15 118 {}
+15 87 {}
+15 117 {'contraction': {(40, 501): {}, (89, 26): {}}}
+15 97 {}
+15 21 {}
+15 34 {'contraction': {(44, 26): {}}}
+15 39 {}
+15 115 {'contraction': {(122, 26): {}}}
+15 81 {'contraction': {(186, 26): {}}}
+15 69 {}
+15 124 {}
+15 17 {'contraction': {(42, 26): {}}}
+15 70 {'contraction': {(40, 126): {}}}
+15 45 {}
+15 56 {}
+15 46 {}
+15 68 {}
+15 31 {}
+15 58 {}
+15 24 {}
+15 16 {}
+15 20 {}
+16 82 {}
+16 16 {'contraction': {(136, 136): {}, (136, 220): {}, (27, 27): {'contraction': {(71, 71): {}, (71, 109): {}}}, (27, 64): {}}}
+16 86 {}
+16 115 {}
+16 107 {}
+16 40 {'contraction': {(27, 139): {}}}
+16 71 {}
+16 53 {'contraction': {(27, 160): {}}}
+16 78 {}
+16 35 {}
+16 54 {}
+16 50 {'contraction': {(154, 64): {}}}
+16 72 {}
+16 55 {}
+16 28 {}
+16 33 {'contraction': {(27, 125): {}}}
+16 23 {'contraction': {(27, 86): {}}}
+16 123 {}
+16 70 {'contraction': {(27, 191): {}}}
+16 106 {}
+16 122 {}
+16 46 {}
+16 83 {}
+16 29 {}
+16 59 {}
+16 19 {}
+16 56 {}
+16 84 {}
+16 49 {}
+16 104 {}
+16 69 {}
+16 116 {}
+16 26 {}
+16 57 {}
+16 99 {}
+16 119 {'contraction': {(129, 27): {}}}
+16 94 {}
+16 93 {}
+16 98 {}
+16 118 {}
+16 75 {}
+16 108 {}
+16 51 {}
+16 61 {}
+16 113 {}
+16 25 {}
+16 27 {}
+16 103 {}
+16 20 {'contraction': {(27, 15): {}}}
+17 86 {}
+17 17 {'contraction': {(183, 183): {}, (183, 221): {}, (42, 42): {'contraction': {(149, 160): {}, (149, 149): {}}}, (42, 65): {}}}
+17 125 {}
+17 93 {}
+17 59 {}
+17 68 {'contraction': {(42, 187): {}}}
+17 100 {}
+17 49 {'contraction': {(148, 65): {}}}
+17 78 {'contraction': {(106, 65): {}}}
+17 123 {'contraction': {(209, 65): {}}}
+17 83 {}
+17 51 {'contraction': {(42, 158): {}}}
+17 39 {}
+17 55 {'contraction': {(113, 65): {}, (42, 163): {}}}
+17 103 {}
+17 20 {'contraction': {(15, 65): {}}}
+17 23 {'contraction': {(42, 86): {}}}
+17 52 {}
+17 70 {}
+17 72 {}
+17 106 {'contraction': {(42, 234): {}}}
+17 60 {}
+17 97 {}
+17 28 {}
+17 91 {}
+17 56 {'contraction': {(68, 42): {}}}
+17 82 {}
+17 63 {}
+17 35 {'contraction': {(266, 149): {}}}
+17 41 {}
+17 111 {}
+17 77 {}
+17 18 {}
+17 74 {}
+17 47 {}
+17 66 {}
+17 114 {}
+17 108 {}
+17 127 {}
+17 46 {'contraction': {(149, 148): {}}}
+17 53 {}
+18 18 {'contraction': {(192, 192): {}, (192, 231): {}, (43, 43): {'contraction': {(62, 164): {}, (62, 62): {}}}, (43, 71): {}}}
+18 48 {}
+18 107 {}
+18 78 {}
+18 106 {'contraction': {(43, 234): {}}}
+18 99 {}
+18 91 {'contraction': {(43, 217): {}}}
+18 63 {}
+18 59 {}
+18 83 {'contraction': {(117, 43): {}}}
+18 114 {'contraction': {(189, 43): {}}}
+18 55 {}
+18 90 {}
+18 84 {}
+18 105 {}
+18 20 {'contraction': {(15, 71): {'contraction': {(43, 15): {}}}}}
+18 23 {'contraction': {(22, 71): {}}}
+18 19 {}
+18 32 {'contraction': {(28, 71): {}}}
+18 95 {}
+18 111 {}
+18 38 {}
+18 112 {}
+18 69 {}
+18 68 {}
+18 25 {}
+18 54 {}
+19 74 {}
+19 19 {'contraction': {(63, 63): {}, (63, 240): {}, (40, 40): {'contraction': {(89, 89): {}, (89, 150): {}}}, (40, 76): {}}}
+19 63 {'contraction': {(40, 174): {}}}
+19 127 {}
+19 36 {'contraction': {(40, 132): {}}}
+19 35 {}
+19 41 {}
+19 90 {}
+19 81 {}
+19 85 {'contraction': {(40, 211): {'contraction': {(89, 460): {}}}}}
+19 23 {'contraction': {(40, 86): {}}}
+19 46 {}
+19 75 {}
+19 126 {}
+19 39 {}
+19 123 {'contraction': {(40, 251): {}}}
+19 79 {}
+19 101 {'contraction': {(40, 229): {}}}
+19 77 {}
+19 111 {}
+19 92 {}
+19 117 {}
+19 43 {}
+19 94 {}
+19 58 {}
+19 124 {'contraction': {(102, 150): {}}}
+19 109 {'contraction': {(89, 493): {}}}
+19 87 {'contraction': {(151, 40): {}}}
+19 54 {}
+19 27 {'contraction': {(47, 40): {}}}
+19 37 {}
+19 21 {'contraction': {(77, 40): {}}}
+19 29 {}
+19 40 {'contraction': {(54, 40): {}}}
+19 62 {}
+19 48 {}
+19 32 {}
+19 47 {}
+19 82 {'contraction': {(747, 469): {}}}
+19 110 {}
+19 125 {}
+19 121 {}
+19 31 {}
+19 88 {}
+19 26 {}
+20 20 {'contraction': {(11, 11): {}, (11, 249): {}, (15, 15): {'contraction': {(12, 12): {}, (12, 70): {}}}, (15, 79): {}}}
+20 51 {'contraction': {(109, 79): {}}}
+20 43 {'contraction': {(97, 79): {}, (15, 142): {}}}
+20 23 {'contraction': {(15, 86): {}, (22, 79): {}}}
+20 89 {'contraction': {(15, 215): {}}}
+20 42 {}
+20 76 {'contraction': {(176, 79): {}, (15, 199): {}}}
+20 77 {'contraction': {(15, 200): {}}}
+20 59 {'contraction': {(15, 169): {'contraction': {(146, 15): {}}}}}
+20 69 {'contraction': {(426, 11): {}}}
+20 91 {}
+20 125 {'contraction': {(99, 79): {'contraction': {(289, 249): {}}}, (15, 253): {}}}
+20 25 {}
+20 50 {}
+20 117 {}
+20 119 {}
+20 60 {}
+20 31 {'contraction': {(102, 79): {}}}
+20 48 {'contraction': {(15, 153): {'contraction': {(30, 12): {}}}}}
+20 66 {}
+20 115 {'contraction': {(15, 243): {}}}
+20 70 {}
+20 45 {}
+20 95 {}
+20 106 {'contraction': {(15, 234): {'contraction': {(201, 15): {}}}}}
+20 73 {}
+20 127 {'contraction': {(15, 255): {'contraction': {(82, 15): {}}}}}
+20 64 {'contraction': {(11, 224): {}}}
+20 81 {}
+20 83 {'contraction': {(15, 208): {}}}
+20 65 {'contraction': {(202, 41): {}, (15, 177): {}}}
+20 35 {'contraction': {(50, 492): {}}}
+20 41 {'contraction': {(11, 327): {}}}
+20 24 {'contraction': {(15, 95): {}}}
+20 103 {}
+20 49 {}
+20 32 {'contraction': {(14, 70): {}, (28, 15): {'contraction': {(13, 121): {}}}}}
+20 88 {'contraction': {(37, 15): {}}}
+20 97 {'contraction': {(12, 478): {'contraction': {(42, 990): {}}}}}
+20 126 {}
+20 28 {'contraction': {(19, 70): {}}}
+20 75 {'contraction': {(150, 15): {}}}
+20 79 {}
+20 53 {'contraction': {(65, 70): {}, (12, 390): {}}}
+20 47 {}
+20 67 {}
+20 121 {'contraction': {(12, 505): {}}}
+20 57 {}
+20 33 {}
+20 56 {}
+20 104 {}
+20 112 {}
+20 54 {}
+20 123 {}
+20 84 {}
+20 118 {'contraction': {(386, 70): {}}}
+20 101 {}
+20 92 {}
+20 29 {}
+20 63 {}
+20 40 {}
+20 27 {}
+20 34 {'contraction': {(61, 12): {}}}
+20 44 {}
+21 21 {'contraction': {(44, 44): {}, (44, 264): {}, (77, 77): {'contraction': {(161, 161): {}, (161, 243): {}}}, (77, 84): {}}}
+21 45 {}
+21 62 {}
+21 29 {}
+21 25 {}
+21 126 {}
+21 32 {}
+21 23 {'contraction': {(66, 264): {}, (77, 86): {}, (22, 84): {}}}
+21 69 {}
+21 64 {}
+21 104 {}
+21 101 {'contraction': {(77, 229): {}}}
+21 77 {}
+21 80 {}
+21 108 {}
+21 116 {}
+21 59 {'contraction': {(77, 169): {}}}
+21 68 {'contraction': {(167, 77): {}}}
+21 44 {'contraction': {(61, 84): {'contraction': {(154, 87): {}}}}}
+21 79 {}
+21 47 {'contraction': {(7, 243): {}}}
+21 37 {}
+21 27 {}
+21 57 {}
+21 105 {}
+22 22 {'contraction': {(95, 95): {}, (95, 267): {}, (63, 63): {'contraction': {(214, 214): {}, (214, 219): {}}}, (63, 85): {}}}
+22 81 {}
+22 65 {}
+22 95 {}
+22 87 {}
+22 28 {}
+22 108 {}
+22 105 {}
+22 103 {}
+22 38 {}
+22 69 {}
+22 76 {}
+22 61 {}
+22 23 {}
+23 95 {'contraction': {(2, 986): {}}}
+23 86 {}
+23 23 {'contraction': {(66, 268): {}, (66, 66): {}, (22, 22): {'contraction': {(78, 78): {}, (78, 88): {}}}, (22, 86): {}}}
+23 31 {'contraction': {(251, 2): {}, (22, 121): {'contraction': {(78, 297): {}}}}}
+23 44 {}
+23 93 {}
+23 114 {'contraction': {(222, 268): {}}}
+23 115 {'contraction': {(66, 499): {}, (122, 86): {'contraction': {(66, 330): {}}}, (22, 243): {'contraction': {(122, 22): {}}}}}
+23 111 {'contraction': {(22, 239): {}}}
+23 98 {'contraction': {(66, 479): {}, (22, 226): {}}}
+23 72 {}
+23 117 {'contraction': {(192, 2): {}, (89, 86): {'contraction': {(212, 66): {}}}, (22, 245): {}}}
+23 61 {}
+23 57 {'contraction': {(24, 86): {}}}
+23 47 {'contraction': {(21, 86): {'contraction': {(9, 268): {}, (66, 87): {}}}}}
+23 32 {'contraction': {(28, 86): {}}}
+23 64 {'contraction': {(22, 175): {}}}
+23 76 {'contraction': {(326, 66): {}, (22, 199): {}}}
+23 28 {'contraction': {(22, 114): {}}}
+23 52 {'contraction': {(22, 159): {'contraction': {(324, 78): {}, (101, 22): {}}}}}
+23 118 {}
+23 68 {'contraction': {(242, 66): {}, (167, 86): {}}}
+23 102 {'contraction': {(477, 66): {}}}
+23 94 {}
+23 45 {}
+23 89 {}
+23 40 {}
+23 35 {'contraction': {(22, 130): {}}}
+23 62 {'contraction': {(35, 86): {}}}
+23 90 {'contraction': {(73, 86): {}}}
+23 33 {'contraction': {(94, 86): {'contraction': {(66, 282): {}}}, (22, 125): {}}}
+23 70 {'contraction': {(66, 126): {}}}
+23 56 {}
+23 125 {'contraction': {(289, 268): {}, (66, 291): {}}}
+23 101 {}
+23 73 {'contraction': {(22, 194): {'contraction': {(133, 22): {}}}}}
+23 38 {'contraction': {(22, 136): {}}}
+23 99 {'contraction': {(22, 227): {'contraction': {(188, 22): {'contraction': {(303, 88): {}}}}}}}
+23 108 {}
+23 112 {}
+23 127 {'contraction': {(22, 255): {}}}
+23 69 {}
+23 81 {}
+23 109 {}
+23 29 {}
+23 65 {}
+23 96 {'contraction': {(66, 151): {}}}
+23 113 {}
+23 25 {'contraction': {(22, 96): {}}}
+23 54 {'contraction': {(22, 162): {'contraction': {(111, 22): {}}}}}
+23 58 {'contraction': {(22, 168): {}}}
+23 24 {'contraction': {(22, 95): {'contraction': {(78, 206): {}}}}}
+23 27 {'contraction': {(22, 103): {}}}
+23 55 {}
+23 26 {}
+23 34 {}
+23 71 {}
+23 78 {'contraction': {(106, 22): {}}}
+23 83 {'contraction': {(117, 22): {}}}
+23 116 {}
+23 103 {}
+23 75 {}
+23 63 {'contraction': {(83, 22): {}}}
+23 42 {}
+23 66 {}
+23 120 {'contraction': {(399, 78): {}}}
+23 67 {}
+23 121 {}
+23 92 {}
+23 126 {}
+23 60 {}
+24 24 {'contraction': {(163, 163): {}, (163, 284): {}, (58, 58): {'contraction': {(181, 181): {}, (181, 206): {}}}, (58, 95): {}}}
+24 33 {}
+24 56 {}
+24 95 {}
+24 52 {}
+24 121 {}
+24 60 {'contraction': {(55, 95): {}}}
+24 48 {}
+24 125 {}
+24 87 {}
+24 67 {}
+24 92 {}
+24 96 {}
+24 109 {}
+24 75 {}
+24 26 {}
+24 53 {'contraction': {(20, 95): {}}}
+24 32 {}
+24 66 {}
+24 45 {}
+24 82 {}
+24 94 {}
+24 39 {}
+24 34 {}
+24 44 {}
+24 28 {}
+24 57 {'contraction': {(58, 24): {}}}
+25 25 {'contraction': {(76, 76): {}, (76, 285): {}, (88, 88): {'contraction': {(251, 251): {}, (251, 271): {}}}, (88, 96): {}}}
+25 123 {}
+25 108 {}
+25 95 {'contraction': {(173, 96): {}}}
+25 80 {'contraction': {(91, 76): {}, (88, 205): {}}}
+25 93 {}
+25 34 {'contraction': {(88, 126): {}, (44, 96): {}}}
+25 57 {}
+25 77 {'contraction': {(88, 200): {}}}
+25 106 {}
+25 121 {}
+25 92 {}
+25 64 {}
+25 125 {}
+25 110 {}
+25 104 {}
+25 73 {}
+25 81 {}
+25 74 {}
+25 97 {}
+25 49 {}
+25 32 {}
+26 85 {}
+26 89 {'contraction': {(183, 98): {}}}
+26 111 {}
+26 127 {}
+26 26 {'contraction': {(52, 52): {}, (52, 290): {}, (92, 92): {'contraction': {(155, 155): {}, (155, 280): {}}}, (92, 98): {}}}
+26 40 {}
+26 92 {}
+26 29 {}
+26 61 {'contraction': {(81, 98): {}}}
+26 46 {}
+26 78 {'contraction': {(92, 202): {}}}
+26 60 {'contraction': {(55, 98): {}}}
+26 32 {}
+26 82 {'contraction': {(92, 207): {'contraction': {(155, 444): {}}}}}
+26 106 {}
+26 73 {}
+26 108 {}
+26 51 {}
+26 126 {}
+26 65 {}
+26 116 {}
+26 115 {}
+26 101 {}
+26 98 {}
+26 47 {'contraction': {(29, 482): {}}}
+26 119 {}
+26 95 {}
+26 62 {}
+26 49 {}
+27 27 {'contraction': {(197, 298): {}, (197, 197): {}, (47, 47): {'contraction': {(129, 129): {}, (129, 177): {}}}, (47, 103): {}}}
+27 86 {}
+27 127 {'contraction': {(443, 298): {}}}
+27 31 {}
+27 106 {}
+27 124 {}
+27 116 {'contraction': {(47, 244): {}}}
+27 39 {}
+27 119 {}
+27 93 {}
+27 71 {}
+27 89 {}
+27 29 {}
+27 42 {}
+27 45 {}
+27 68 {}
+27 64 {'contraction': {(67, 47): {}}}
+27 61 {}
+27 92 {}
+27 54 {}
+27 113 {}
+27 91 {}
+27 63 {}
+27 60 {}
+27 105 {}
+27 90 {}
+27 43 {}
+27 103 {}
+27 49 {}
+27 44 {}
+27 57 {'contraction': {(47, 24): {}}}
+27 47 {}
+28 28 {'contraction': {(19, 319): {}, (19, 19): {}, (7, 114): {}, (7, 7): {'contraction': {(21, 21): {}, (21, 34): {}}}}}
+28 58 {}
+28 51 {}
+28 105 {'contraction': {(19, 487): {}}}
+28 107 {'contraction': {(156, 114): {}}}
+28 41 {'contraction': {(143, 19): {}, (120, 114): {}, (7, 140): {}}}
+28 54 {'contraction': {(7, 162): {}}}
+28 119 {}
+28 32 {}
+28 56 {}
+28 104 {}
+28 101 {}
+28 71 {'contraction': {(7, 192): {}}}
+28 108 {'contraction': {(7, 236): {}}}
+28 91 {'contraction': {(7, 217): {}}}
+28 109 {'contraction': {(7, 237): {}}}
+28 96 {}
+28 74 {}
+28 117 {}
+28 42 {'contraction': {(7, 141): {}}}
+28 37 {}
+28 89 {'contraction': {(183, 7): {}}}
+28 33 {'contraction': {(105, 34): {}}}
+28 47 {}
+28 31 {'contraction': {(102, 7): {}}}
+28 59 {}
+28 113 {}
+28 100 {}
+28 103 {}
+28 86 {}
+28 114 {}
+28 106 {'contraction': {(21, 449): {}}}
+28 122 {}
+28 69 {}
+28 90 {}
+29 29 {'contraction': {(304, 304): {}, (304, 321): {}, (60, 60): {'contraction': {(199, 199): {}, (199, 209): {}}}, (60, 116): {}}}
+29 94 {}
+29 54 {}
+29 103 {}
+29 104 {}
+29 112 {}
+29 62 {}
+29 108 {}
+29 43 {}
+29 32 {}
+29 123 {}
+29 92 {}
+29 35 {}
+29 39 {}
+29 41 {}
+29 90 {}
+30 30 {'contraction': {(137, 137): {}, (137, 325): {}, (91, 91): {'contraction': {(156, 279): {}, (156, 156): {}}}, (91, 119): {}}}
+30 37 {}
+30 48 {'contraction': {(78, 119): {}}}
+30 61 {}
+30 54 {}
+30 116 {}
+30 35 {}
+30 53 {}
+30 45 {}
+30 82 {}
+30 124 {}
+30 113 {}
+30 103 {}
+30 49 {}
+30 32 {'contraction': {(91, 28): {}}}
+31 31 {'contraction': {(213, 213): {}, (213, 329): {}, (102, 102): {'contraction': {(104, 104): {}, (104, 297): {}}}, (102, 121): {}}}
+31 73 {}
+31 81 {}
+31 80 {}
+31 71 {'contraction': {(127, 121): {}}}
+31 127 {}
+31 69 {}
+31 112 {}
+31 55 {}
+31 53 {}
+31 86 {}
+31 72 {}
+31 67 {}
+31 108 {}
+31 38 {}
+31 61 {}
+31 95 {}
+31 77 {}
+31 111 {}
+31 121 {}
+31 50 {}
+31 109 {}
+31 34 {}
+31 57 {}
+32 46 {}
+32 32 {'contraction': {(14, 333): {}, (14, 14): {}, (28, 28): {'contraction': {(26, 26): {}, (26, 114): {}}}, (28, 124): {}}}
+32 80 {}
+32 34 {'contraction': {(28, 126): {}}}
+32 47 {'contraction': {(7, 333): {}}}
+32 116 {'contraction': {(131, 124): {}}}
+32 98 {}
+32 99 {}
+32 39 {}
+32 100 {'contraction': {(28, 228): {'contraction': {(166, 28): {}}}}}
+32 57 {}
+32 52 {'contraction': {(28, 159): {'contraction': {(26, 389): {}}}}}
+32 86 {}
+32 67 {}
+32 38 {'contraction': {(28, 136): {}}}
+32 36 {}
+32 121 {}
+32 51 {}
+32 74 {'contraction': {(28, 195): {}}}
+32 59 {}
+32 40 {'contraction': {(28, 139): {}}}
+32 48 {'contraction': {(14, 248): {}}}
+32 103 {}
+32 33 {}
+32 124 {}
+32 113 {}
+32 127 {}
+32 60 {}
+32 87 {'contraction': {(151, 28): {}}}
+32 97 {}
+32 120 {'contraction': {(399, 114): {}}}
+32 56 {}
+32 93 {}
+32 111 {}
+32 102 {}
+32 64 {}
+32 90 {}
+32 55 {}
+32 53 {}
+33 64 {}
+33 33 {'contraction': {(105, 336): {}, (105, 105): {}, (94, 94): {'contraction': {(106, 106): {}, (106, 282): {}}}, (94, 125): {}}}
+33 112 {'contraction': {(94, 240): {}}}
+33 107 {}
+33 93 {}
+33 36 {}
+33 91 {}
+33 113 {}
+33 87 {'contraction': {(151, 125): {}}}
+33 105 {}
+33 99 {}
+33 79 {}
+33 84 {}
+33 120 {}
+33 72 {'contraction': {(94, 193): {}}}
+33 109 {'contraction': {(94, 237): {}}}
+33 68 {}
+33 65 {}
+33 62 {}
+33 41 {'contraction': {(105, 327): {}}}
+33 90 {}
+33 55 {}
+33 103 {}
+33 66 {}
+33 121 {'contraction': {(246, 106): {}}}
+33 92 {}
+33 127 {'contraction': {(82, 94): {}}}
+33 63 {}
+33 119 {}
+33 47 {'contraction': {(106, 7): {}}}
+33 94 {}
+33 46 {}
+33 58 {}
+33 34 {}
+33 44 {}
+34 34 {'contraction': {(167, 167): {}, (167, 337): {}, (44, 44): {'contraction': {(61, 61): {}, (61, 168): {}}}, (44, 126): {'contraction': {(61, 337): {}}}}}
+34 64 {}
+34 59 {}
+34 43 {}
+34 73 {'contraction': {(328, 167): {}}}
+34 98 {'contraction': {(104, 126): {}, (44, 226): {}}}
+34 88 {'contraction': {(44, 214): {}}}
+34 47 {'contraction': {(21, 126): {}}}
+34 44 {'contraction': {(44, 143): {}}}
+34 80 {}
+34 82 {}
+34 94 {}
+34 76 {'contraction': {(44, 199): {}}}
+34 58 {}
+34 46 {}
+34 96 {}
+34 36 {}
+34 50 {}
+34 78 {}
+34 71 {}
+34 72 {}
+34 90 {}
+34 52 {}
+34 104 {}
+34 106 {}
+34 38 {}
+34 102 {}
+34 89 {'contraction': {(61, 425): {}}}
+34 68 {}
+34 124 {}
+34 74 {}
+34 54 {}
+34 105 {}
+34 55 {}
+34 37 {}
+34 49 {}
+35 35 {'contraction': {(266, 266): {}, (266, 345): {}, (105, 105): {'contraction': {(162, 162): {}, (162, 300): {}}}, (105, 130): {}}}
+35 94 {'contraction': {(105, 221): {'contraction': {(314, 729): {}}}}}
+35 95 {}
+35 48 {}
+35 71 {}
+35 59 {}
+35 102 {}
+35 125 {}
+35 81 {}
+35 47 {}
+35 106 {}
+35 91 {}
+35 96 {}
+35 90 {}
+35 103 {}
+35 53 {}
+35 73 {}
+35 111 {}
+35 105 {}
+35 44 {}
+36 36 {'contraction': {(119, 348): {}, (119, 119): {}, (46, 46): {'contraction': {(141, 141): {}, (141, 174): {}}}, (46, 132): {}}}
+36 42 {'contraction': {(45, 348): {}}}
+36 58 {}
+36 93 {}
+36 100 {}
+36 44 {}
+36 120 {}
+36 110 {}
+36 64 {}
+36 69 {}
+36 63 {}
+36 117 {}
+36 60 {'contraction': {(171, 832): {}}}
+36 43 {}
+36 103 {}
+36 49 {}
+37 37 {'contraction': {(198, 351): {}, (198, 198): {}, (18, 18): {'contraction': {(79, 83): {}, (79, 79): {}}}, (18, 135): {}}}
+37 126 {'contraction': {(93, 135): {}}}
+37 122 {'contraction': {(18, 250): {'contraction': {(66, 18): {'contraction': {(79, 223): {}}}}}}}
+37 110 {}
+37 77 {}
+37 71 {}
+37 46 {}
+37 47 {}
+37 99 {'contraction': {(18, 227): {}}}
+37 92 {'contraction': {(18, 219): {}}}
+37 102 {'contraction': {(18, 230): {}}}
+37 65 {'contraction': {(18, 177): {'contraction': {(79, 308): {}}}}}
+37 118 {}
+37 72 {}
+37 60 {}
+37 80 {'contraction': {(79, 453): {}, (50, 18): {}}}
+37 58 {'contraction': {(79, 404): {}}}
+37 41 {}
+37 61 {}
+37 105 {}
+37 119 {}
+37 90 {}
+37 52 {}
+37 85 {'contraction': {(110, 18): {}}}
+37 104 {}
+37 121 {}
+37 40 {}
+37 45 {}
+37 56 {}
+37 78 {}
+37 75 {}
+37 111 {}
+37 62 {}
+37 48 {}
+37 49 {}
+38 38 {'contraction': {(245, 245): {}, (245, 352): {}, (80, 80): {'contraction': {(90, 255): {}, (90, 90): {}}}, (80, 136): {}}}
+38 110 {}
+38 121 {}
+38 118 {}
+38 73 {}
+38 116 {}
+38 117 {}
+38 41 {}
+38 43 {}
+39 39 {'contraction': {(111, 111): {}, (111, 355): {}, (112, 112): {'contraction': {(32, 32): {}, (32, 315): {}}}, (112, 138): {}}}
+39 118 {}
+39 57 {'contraction': {(24, 138): {}}}
+39 120 {}
+39 87 {}
+39 85 {'contraction': {(112, 211): {}}}
+39 111 {}
+39 65 {'contraction': {(112, 177): {}}}
+39 74 {}
+39 49 {}
+39 115 {}
+39 103 {'contraction': {(52, 138): {}}}
+39 88 {}
+39 84 {}
+39 108 {}
+39 43 {}
+39 44 {}
+40 40 {'contraction': {(296, 296): {}, (296, 357): {}, (54, 139): {}, (54, 54): {'contraction': {(101, 101): {}, (101, 195): {}}}}}
+40 101 {'contraction': {(54, 229): {}}}
+40 45 {}
+40 47 {}
+40 115 {'contraction': {(296, 330): {}}}
+40 106 {}
+40 113 {'contraction': {(54, 241): {}}}
+40 65 {}
+40 50 {}
+40 123 {}
+40 102 {}
+40 112 {'contraction': {(57, 54): {}}}
+40 99 {}
+40 46 {}
+40 114 {}
+40 118 {}
+40 56 {}
+40 104 {}
+40 111 {}
+40 64 {}
+40 68 {}
+40 59 {}
+41 41 {'contraction': {(143, 143): {}, (143, 358): {}, (120, 120): {'contraction': {(301, 301): {}, (301, 327): {}}}, (120, 140): {}}}
+41 99 {}
+41 79 {}
+41 107 {'contraction': {(120, 235): {}}}
+41 86 {}
+41 75 {}
+41 126 {}
+41 72 {}
+41 47 {'contraction': {(404, 29): {}}}
+41 87 {}
+41 51 {}
+41 94 {}
+41 112 {}
+41 118 {}
+41 53 {}
+41 84 {'contraction': {(301, 441): {}}}
+41 52 {}
+41 82 {}
+41 116 {}
+41 89 {'contraction': {(569, 765): {}}}
+41 81 {}
+41 83 {}
+41 96 {}
+41 54 {}
+41 57 {}
+42 42 {'contraction': {(45, 45): {}, (45, 360): {}, (118, 118): {'contraction': {(182, 323): {}, (182, 182): {}}}, (118, 141): {}}}
+42 71 {}
+42 78 {}
+42 92 {'contraction': {(118, 219): {}}}
+42 119 {}
+42 95 {}
+42 93 {}
+42 85 {}
+42 124 {}
+42 60 {'contraction': {(118, 170): {}}}
+42 59 {'contraction': {(118, 169): {}}}
+42 120 {}
+42 125 {}
+42 72 {}
+42 50 {}
+42 51 {}
+42 91 {}
+42 77 {}
+42 101 {}
+42 116 {}
+42 117 {}
+42 62 {}
+42 48 {}
+42 88 {}
+42 43 {}
+43 43 {'contraction': {(152, 152): {}, (152, 361): {}, (97, 97): {'contraction': {(121, 121): {}, (121, 287): {}}}, (97, 142): {}}}
+43 45 {'contraction': {(332, 361): {}, (97, 145): {}}}
+43 127 {'contraction': {(97, 255): {}}}
+43 109 {}
+43 53 {'contraction': {(152, 65): {}}}
+43 47 {}
+43 107 {}
+43 85 {}
+43 91 {'contraction': {(97, 217): {}}}
+43 92 {}
+43 81 {}
+43 98 {'contraction': {(104, 97): {'contraction': {(261, 287): {}}}}}
+43 113 {}
+43 123 {}
+43 49 {'contraction': {(148, 142): {}}}
+43 115 {}
+43 56 {}
+43 71 {'contraction': {(121, 338): {}}}
+43 64 {}
+43 96 {}
+43 63 {}
+43 60 {}
+43 44 {}
+44 50 {}
+44 44 {'contraction': {(81, 81): {}, (81, 362): {}, (61, 61): {'contraction': {(29, 29): {}, (29, 211): {}}}, (61, 143): {'contraction': {(87, 849): {}}}}}
+44 51 {'contraction': {(109, 143): {}}}
+44 106 {}
+44 83 {'contraction': {(117, 143): {}}}
+44 120 {}
+44 121 {}
+44 68 {}
+44 86 {'contraction': {(61, 212): {}}}
+44 110 {}
+44 119 {}
+44 125 {}
+44 99 {'contraction': {(81, 432): {}, (61, 227): {}}}
+44 46 {'contraction': {(61, 147): {}}}
+44 124 {'contraction': {(81, 228): {}}}
+44 65 {}
+44 59 {}
+44 103 {}
+44 109 {}
+44 112 {}
+44 60 {'contraction': {(29, 409): {}, (55, 61): {}}}
+44 88 {}
+44 107 {}
+44 123 {'contraction': {(473, 29): {}}}
+44 49 {}
+44 78 {}
+44 102 {}
+44 57 {}
+44 47 {}
+45 45 {'contraction': {(332, 332): {}, (332, 365): {}, (123, 123): {'contraction': {(128, 128): {}, (128, 331): {}}}, (123, 145): {}}}
+45 105 {}
+45 67 {'contraction': {(90, 145): {}}}
+45 55 {}
+45 75 {}
+45 59 {}
+45 62 {}
+45 54 {}
+45 58 {}
+46 46 {'contraction': {(342, 342): {}, (342, 368): {}, (39, 147): {}, (39, 39): {'contraction': {(58, 148): {}, (58, 58): {}}}}}
+46 67 {}
+46 57 {}
+46 98 {}
+46 64 {}
+46 55 {}
+46 83 {}
+46 100 {}
+46 48 {}
+47 74 {'contraction': {(21, 195): {'contraction': {(100, 21): {}}}}}
+47 47 {'contraction': {(7, 7): {}, (7, 376): {}, (21, 21): {'contraction': {(9, 87): {}, (9, 9): {}}}, (21, 152): {}}}
+47 65 {'contraction': {(108, 152): {}}}
+47 85 {'contraction': {(110, 152): {'contraction': {(7, 312): {}}}}}
+47 87 {}
+47 63 {'contraction': {(21, 174): {}}}
+47 104 {'contraction': {(21, 232): {}}}
+47 70 {'contraction': {(29, 941): {}, (31, 152): {}}}
+47 106 {'contraction': {(29, 1000): {}}}
+47 91 {}
+47 90 {'contraction': {(21, 216): {}}}
+47 103 {'contraction': {(21, 231): {}}}
+47 110 {'contraction': {(514, 29): {}}}
+47 67 {'contraction': {(7, 278): {}}}
+47 50 {'contraction': {(29, 868): {}}}
+47 122 {}
+47 64 {'contraction': {(110, 7): {}}}
+47 69 {}
+47 81 {}
+47 96 {'contraction': {(29, 433): {}}}
+47 113 {}
+47 48 {}
+47 75 {}
+47 89 {}
+47 99 {}
+47 127 {}
+47 120 {}
+47 105 {}
+47 123 {'contraction': {(209, 21): {}}}
+47 53 {}
+47 84 {}
+47 95 {}
+47 93 {}
+47 107 {}
+47 112 {}
+47 126 {}
+47 97 {'contraction': {(50, 9): {}}}
+47 58 {}
+48 48 {'contraction': {(30, 30): {}, (30, 377): {}, (78, 78): {'contraction': {(133, 133): {}, (133, 248): {}}}, (78, 153): {}}}
+48 57 {}
+48 72 {}
+48 122 {}
+48 112 {'contraction': {(57, 153): {}}}
+48 94 {}
+48 123 {'contraction': {(30, 458): {}}}
+48 86 {}
+48 118 {}
+48 121 {}
+48 59 {}
+48 77 {}
+48 73 {}
+48 98 {}
+48 107 {}
+48 106 {}
+48 127 {}
+48 89 {}
+48 92 {}
+48 83 {}
+48 62 {}
+48 55 {}
+48 103 {}
+49 49 {'contraction': {(118, 118): {}, (118, 381): {}, (148, 148): {'contraction': {(80, 369): {}, (80, 80): {}}}, (148, 155): {}}}
+49 111 {'contraction': {(118, 495): {}}}
+49 123 {'contraction': {(148, 251): {}}}
+49 51 {}
+49 115 {'contraction': {(122, 155): {}}}
+49 52 {}
+49 117 {}
+49 122 {}
+49 70 {}
+49 89 {}
+49 90 {'contraction': {(148, 216): {}}}
+49 53 {}
+49 84 {}
+49 79 {}
+49 67 {}
+49 127 {}
+49 81 {}
+49 76 {}
+49 113 {}
+49 60 {}
+49 100 {}
+49 54 {}
+49 97 {}
+49 63 {}
+49 108 {}
+49 73 {}
+49 80 {}
+49 96 {}
+49 95 {}
+49 94 {}
+49 75 {}
+49 99 {}
+50 50 {'contraction': {(317, 317): {}, (317, 387): {}, (154, 154): {'contraction': {(216, 378): {}, (216, 216): {}}}, (154, 157): {}}}
+50 100 {}
+50 56 {}
+50 98 {'contraction': {(154, 226): {}}}
+50 85 {}
+50 51 {}
+50 80 {}
+50 60 {}
+50 94 {}
+50 126 {}
+50 96 {}
+50 117 {}
+50 97 {}
+50 53 {}
+50 57 {}
+51 51 {'contraction': {(166, 166): {}, (166, 388): {}, (109, 109): {'contraction': {(265, 265): {}, (265, 311): {}}}, (109, 158): {}}}
+51 53 {}
+51 56 {'contraction': {(194, 166): {}}}
+51 107 {}
+51 114 {}
+51 67 {}
+51 62 {}
+51 82 {}
+51 78 {}
+51 126 {}
+51 100 {}
+51 90 {}
+51 88 {}
+52 52 {'contraction': {(324, 389): {}, (324, 324): {}, (101, 101): {'contraction': {(215, 215): {}, (215, 295): {}}}, (101, 159): {}}}
+52 125 {}
+52 101 {}
+52 53 {}
+52 121 {}
+52 74 {}
+52 117 {'contraction': {(377, 881): {}}}
+52 54 {}
+52 88 {}
+53 53 {'contraction': {(65, 65): {}, (65, 390): {}, (20, 20): {'contraction': {(73, 73): {}, (73, 86): {}}}, (20, 160): {}}}
+53 59 {'contraction': {(65, 406): {}}}
+53 96 {'contraction': {(65, 475): {}, (20, 223): {}}}
+53 60 {}
+53 90 {}
+53 57 {}
+53 86 {}
+53 56 {'contraction': {(20, 164): {'contraction': {(107, 73): {}}}}}
+53 93 {'contraction': {(20, 220): {}}}
+53 72 {}
+53 104 {'contraction': {(20, 232): {}}}
+53 121 {}
+53 127 {}
+53 92 {'contraction': {(20, 219): {}}}
+53 88 {}
+53 54 {'contraction': {(111, 20): {}}}
+53 81 {'contraction': {(95, 964): {}}}
+53 76 {'contraction': {(176, 20): {}}}
+53 77 {}
+53 119 {}
+53 55 {'contraction': {(113, 20): {}}}
+53 79 {}
+53 94 {}
+53 73 {}
+53 116 {}
+53 100 {}
+54 54 {'contraction': {(366, 366): {}, (366, 392): {}, (111, 111): {'contraction': {(204, 204): {}, (204, 313): {}}}, (111, 162): {}}}
+54 84 {'contraction': {(175, 392): {}}}
+54 78 {'contraction': {(442, 392): {}}}
+54 96 {}
+54 72 {}
+54 122 {}
+54 95 {}
+54 77 {}
+54 70 {}
+54 113 {}
+54 83 {}
+54 74 {}
+54 117 {}
+55 55 {'contraction': {(116, 394): {}, (116, 116): {}, (113, 113): {'contraction': {(154, 154): {}, (154, 318): {}}}, (113, 163): {}}}
+55 81 {}
+55 70 {'contraction': {(116, 435): {}, (31, 163): {}}}
+55 89 {}
+55 85 {}
+55 92 {}
+55 65 {}
+55 57 {}
+55 119 {'contraction': {(116, 344): {}}}
+55 109 {}
+55 117 {'contraction': {(113, 245): {}}}
+55 88 {}
+55 122 {}
+55 94 {}
+55 80 {}
+55 115 {}
+55 56 {}
+55 68 {}
+55 60 {}
+55 100 {}
+55 62 {}
+55 103 {}
+56 56 {'contraction': {(107, 107): {}, (107, 396): {}, (68, 164): {}, (68, 68): {'contraction': {(194, 194): {}, (194, 226): {}}}}}
+56 76 {}
+56 83 {}
+56 96 {}
+56 97 {}
+56 105 {}
+57 113 {'contraction': {(62, 165): {}, (24, 241): {}}}
+57 57 {'contraction': {(96, 96): {}, (96, 398): {}, (24, 24): {'contraction': {(93, 93): {}, (93, 98): {}}}, (24, 165): {}}}
+57 120 {}
+57 112 {'contraction': {(24, 240): {}}}
+57 76 {'contraction': {(96, 447): {}, (176, 165): {}}}
+57 110 {}
+57 75 {'contraction': {(96, 445): {}}}
+57 84 {}
+57 95 {}
+57 109 {}
+57 73 {}
+57 123 {}
+57 126 {'contraction': {(24, 254): {}}}
+57 124 {}
+57 107 {}
+57 87 {}
+57 116 {}
+57 61 {}
+57 59 {}
+57 58 {}
+57 77 {'contraction': {(189, 98): {}}}
+57 125 {}
+57 98 {}
+57 80 {'contraction': {(50, 24): {}}}
+57 104 {}
+57 101 {}
+57 71 {}
+57 127 {}
+57 63 {'contraction': {(93, 260): {}}}
+57 62 {}
+58 58 {'contraction': {(371, 371): {}, (371, 404): {}, (56, 168): {}, (56, 56): {'contraction': {(67, 67): {}, (67, 202): {}}}}}
+58 110 {}
+58 82 {}
+58 119 {}
+58 93 {'contraction': {(56, 220): {}}}
+58 127 {}
+58 80 {}
+58 70 {}
+58 79 {}
+58 59 {}
+58 73 {}
+58 91 {'contraction': {(144, 56): {}}}
+58 96 {}
+58 66 {}
+58 107 {}
+58 78 {}
+58 101 {}
+58 106 {}
+58 75 {}
+58 71 {'contraction': {(67, 338): {}}}
+58 113 {}
+59 59 {'contraction': {(230, 230): {}, (230, 406): {}, (146, 146): {'contraction': {(158, 158): {}, (158, 367): {}}}, (146, 169): {}}}
+59 116 {}
+59 94 {'contraction': {(146, 221): {}}}
+59 85 {}
+59 117 {}
+59 66 {}
+59 81 {}
+59 74 {}
+59 100 {}
+59 97 {}
+60 60 {'contraction': {(60, 60): {}, (60, 409): {}, (55, 55): {'contraction': {(172, 196): {}, (172, 172): {}}}, (55, 170): {}}}
+60 107 {'contraction': {(156, 170): {}}}
+60 114 {}
+60 90 {}
+60 79 {}
+60 112 {'contraction': {(55, 240): {}}}
+60 109 {}
+60 116 {}
+60 111 {}
+60 76 {}
+61 61 {'contraction': {(142, 410): {}, (142, 142): {}, (81, 81): {'contraction': {(145, 145): {}, (145, 257): {}}}, (81, 171): {}}}
+61 87 {'contraction': {(142, 464): {}}}
+61 83 {}
+61 106 {'contraction': {(81, 234): {}}}
+61 88 {'contraction': {(37, 171): {}}}
+61 98 {}
+61 107 {}
+61 99 {}
+61 95 {}
+61 116 {}
+61 102 {}
+62 62 {'contraction': {(343, 343): {}, (343, 411): {}, (35, 35): {'contraction': {(64, 64): {}, (64, 138): {}}}, (35, 172): {}}}
+62 102 {}
+62 115 {}
+62 114 {}
+62 120 {}
+62 81 {}
+62 100 {}
+62 84 {}
+62 76 {}
+62 103 {}
+62 77 {}
+62 91 {}
+63 63 {'contraction': {(59, 413): {}, (59, 59): {}, (83, 83): {'contraction': {(239, 239): {}, (239, 260): {}}}, (83, 174): {}}}
+63 86 {'contraction': {(72, 174): {}}}
+63 71 {}
+63 127 {}
+63 103 {}
+63 115 {}
+63 126 {}
+63 113 {'contraction': {(83, 62): {}}}
+63 105 {}
+64 64 {'contraction': {(272, 272): {}, (272, 414): {}, (67, 67): {'contraction': {(110, 110): {}, (110, 224): {}}}, (67, 175): {}}}
+64 122 {}
+64 88 {'contraction': {(37, 175): {}}}
+64 124 {}
+64 103 {}
+64 75 {}
+64 97 {}
+65 65 {'contraction': {(382, 417): {}, (382, 382): {}, (108, 108): {'contraction': {(55, 308): {}, (55, 55): {}}}, (108, 177): {}}}
+65 101 {}
+65 111 {}
+65 89 {}
+65 102 {'contraction': {(224, 177): {}}}
+65 66 {}
+65 93 {}
+65 107 {}
+65 94 {}
+65 82 {}
+65 81 {}
+65 109 {}
+65 113 {}
+66 66 {'contraction': {(314, 314): {}, (314, 421): {}, (115, 115): {'contraction': {(250, 320): {}, (250, 250): {}}}, (115, 180): {}}}
+66 117 {'contraction': {(89, 180): {'contraction': {(377, 788): {}}}}}
+66 85 {}
+66 122 {}
+66 81 {}
+66 105 {'contraction': {(250, 74): {}}}
+67 67 {'contraction': {(302, 302): {}, (302, 424): {}, (90, 90): {'contraction': {(94, 94): {}, (94, 278): {}}}, (90, 182): {}}}
+67 124 {}
+67 83 {}
+67 103 {}
+67 110 {}
+67 123 {}
+67 97 {}
+67 105 {'contraction': {(302, 74): {}}}
+68 68 {'contraction': {(242, 242): {}, (242, 431): {}, (167, 167): {'contraction': {(373, 373): {}, (373, 403): {}}}, (167, 187): {}}}
+68 112 {}
+68 105 {}
+68 99 {}
+68 83 {}
+68 111 {}
+68 87 {}
+68 102 {}
+68 82 {}
+68 89 {}
+68 97 {}
+68 88 {}
+68 103 {}
+69 69 {'contraction': {(426, 426): {}, (426, 434): {}, (107, 107): {'contraction': {(176, 307): {}, (176, 176): {}}}, (107, 190): {}}}
+69 85 {}
+69 114 {}
+69 71 {'contraction': {(107, 192): {}}}
+69 122 {}
+69 115 {}
+69 73 {}
+69 125 {}
+69 97 {}
+69 105 {}
+70 70 {'contraction': {(306, 435): {}, (306, 306): {}, (31, 31): {'contraction': {(54, 54): {}, (54, 126): {}}}, (31, 191): {}}}
+70 124 {}
+70 91 {}
+70 118 {}
+70 106 {}
+70 81 {}
+70 103 {}
+71 71 {'contraction': {(252, 252): {}, (252, 436): {}, (127, 127): {'contraction': {(146, 338): {}, (146, 146): {}}}, (127, 192): {'contraction': {(146, 436): {}}}}}
+71 76 {}
+71 111 {}
+71 108 {}
+71 127 {}
+72 72 {'contraction': {(225, 225): {}, (225, 437): {}, (179, 179): {'contraction': {(208, 208): {}, (208, 419): {}}}, (179, 193): {}}}
+72 107 {}
+72 83 {}
+72 74 {'contraction': {(67, 184): {}}}
+72 97 {}
+73 73 {'contraction': {(328, 328): {}, (328, 439): {}, (133, 133): {'contraction': {(339, 339): {}, (339, 349): {}}}, (133, 194): {}}}
+73 113 {}
+73 119 {}
+73 94 {}
+73 99 {}
+73 126 {}
+74 74 {'contraction': {(293, 293): {}, (293, 440): {}, (100, 100): {'contraction': {(288, 288): {}, (288, 292): {}}}, (100, 195): {}}}
+74 120 {'contraction': {(184, 195): {}}}
+74 107 {}
+74 111 {}
+74 122 {'contraction': {(100, 250): {}}}
+74 112 {}
+74 88 {}
+74 126 {}
+74 91 {}
+74 117 {}
+74 97 {'contraction': {(100, 87): {}}}
+74 103 {}
+75 75 {'contraction': {(374, 445): {}, (374, 374): {}, (150, 150): {'contraction': {(241, 241): {}, (241, 372): {}}}, (150, 198): {}}}
+75 76 {}
+75 88 {}
+75 113 {}
+75 80 {}
+75 118 {}
+75 122 {}
+76 76 {'contraction': {(326, 326): {}, (326, 447): {}, (176, 176): {'contraction': {(383, 383): {}, (383, 415): {}}}, (176, 199): {}}}
+76 115 {}
+76 81 {}
+76 77 {}
+76 114 {}
+76 93 {}
+76 125 {}
+76 117 {}
+76 103 {}
+77 77 {'contraction': {(189, 189): {}, (189, 448): {}, (137, 137): {'contraction': {(171, 354): {}, (171, 171): {}}}, (137, 200): {}}}
+77 108 {}
+77 88 {}
+77 116 {}
+77 83 {}
+78 78 {'contraction': {(442, 442): {}, (442, 450): {}, (106, 106): {'contraction': {(274, 274): {}, (274, 305): {}}}, (106, 202): {}}}
+78 105 {}
+78 81 {}
+78 92 {}
+78 117 {'contraction': {(106, 245): {}}}
+78 88 {}
+78 116 {}
+79 79 {'contraction': {(423, 423): {}, (423, 452): {}, (185, 185): {'contraction': {(428, 428): {}, (428, 429): {}}}, (185, 204): {}}}
+79 85 {}
+79 101 {}
+79 80 {}
+79 112 {}
+79 126 {}
+79 100 {}
+80 80 {'contraction': {(91, 453): {}, (91, 91): {}, (50, 50): {'contraction': {(178, 178): {}, (178, 187): {}}}, (50, 205): {}}}
+80 88 {}
+80 100 {}
+80 103 {}
+80 83 {}
+80 119 {}
+80 93 {}
+80 90 {}
+81 81 {'contraction': {(135, 454): {}, (135, 135): {}, (186, 186): {'contraction': {(253, 253): {}, (253, 430): {}}}, (186, 206): {}}}
+81 88 {}
+81 97 {}
+81 105 {}
+82 82 {'contraction': {(395, 395): {}, (395, 456): {}, (197, 197): {'contraction': {(397, 397): {}, (397, 444): {}}}, (197, 207): {}}}
+82 105 {}
+82 96 {}
+82 99 {}
+82 127 {}
+83 83 {'contraction': {(97, 97): {}, (97, 457): {}, (117, 117): {'contraction': {(157, 157): {}, (157, 322): {}}}, (117, 208): {}}}
+83 122 {}
+83 92 {}
+83 91 {}
+83 123 {'contraction': {(157, 458): {}}}
+83 88 {}
+84 84 {'contraction': {(175, 459): {}, (175, 175): {}, (196, 196): {'contraction': {(359, 359): {}, (359, 441): {}}}, (196, 210): {}}}
+84 112 {}
+84 89 {}
+84 119 {}
+84 97 {}
+84 114 {}
+84 124 {}
+84 105 {}
+85 85 {'contraction': {(393, 393): {}, (393, 460): {}, (110, 110): {'contraction': {(125, 125): {}, (125, 312): {}}}, (110, 211): {}}}
+85 88 {}
+85 104 {}
+85 126 {}
+85 103 {}
+85 105 {}
+86 86 {'contraction': {(385, 385): {}, (385, 461): {}, (72, 212): {}, (72, 72): {'contraction': {(131, 131): {}, (131, 232): {}}}}}
+86 105 {}
+86 97 {'contraction': {(87, 212): {}}}
+87 87 {'contraction': {(405, 405): {}, (405, 464): {}, (151, 151): {'contraction': {(353, 353): {}, (353, 375): {}}}, (151, 213): {}}}
+87 125 {}
+87 91 {}
+87 127 {}
+87 89 {}
+87 103 {}
+88 88 {'contraction': {(100, 100): {}, (100, 465): {}, (37, 37): {'contraction': {(112, 112): {}, (112, 140): {}}}, (37, 214): {}}}
+88 122 {'contraction': {(66, 214): {}}}
+88 115 {}
+88 120 {}
+88 91 {}
+88 109 {}
+88 114 {}
+88 103 {}
+89 89 {'contraction': {(455, 455): {}, (455, 466): {}, (183, 183): {'contraction': {(269, 269): {}, (269, 425): {}}}, (183, 215): {}}}
+89 123 {'contraction': {(183, 251): {}}}
+89 122 {}
+89 126 {}
+89 96 {}
+89 99 {}
+89 117 {}
+89 100 {}
+90 90 {'contraction': {(82, 82): {}, (82, 467): {}, (73, 73): {'contraction': {(191, 191): {}, (191, 234): {}}}, (73, 216): {}}}
+90 107 {'contraction': {(156, 216): {}}}
+90 110 {}
+90 121 {}
+90 114 {}
+90 106 {}
+90 101 {}
+90 108 {}
+90 95 {}
+90 100 {}
+91 91 {'contraction': {(316, 316): {}, (316, 468): {}, (144, 144): {'contraction': {(186, 186): {}, (186, 364): {}}}, (144, 217): {}}}
+91 93 {}
+91 100 {}
+91 105 {}
+91 103 {'contraction': {(144, 52): {}}}
+92 92 {'contraction': {(334, 334): {}, (334, 470): {}, (49, 49): {'contraction': {(46, 46): {}, (46, 184): {}}}, (49, 219): {}}}
+92 121 {}
+93 93 {'contraction': {(380, 380): {}, (380, 471): {}, (149, 149): {'contraction': {(235, 235): {}, (235, 370): {}}}, (149, 220): {}}}
+93 119 {}
+93 103 {}
+93 102 {}
+93 113 {}
+94 94 {'contraction': {(347, 472): {}, (347, 347): {}, (134, 134): {'contraction': {(276, 276): {}, (276, 350): {}}}, (134, 221): {}}}
+94 111 {}
+94 124 {}
+95 95 {'contraction': {(408, 408): {}, (408, 474): {}, (173, 173): {'contraction': {(294, 294): {}, (294, 412): {}}}, (173, 222): {}}}
+95 97 {}
+95 100 {}
+95 107 {}
+96 96 {'contraction': {(159, 159): {}, (159, 475): {}, (41, 41): {'contraction': {(134, 134): {}, (134, 151): {}}}, (41, 223): {}}}
+96 106 {}
+96 100 {}
+96 102 {}
+96 125 {}
+96 119 {}
+96 108 {}
+96 103 {}
+97 97 {'contraction': {(263, 478): {'contraction': {(333, 990): {}}}, (263, 263): {}, (87, 87): {'contraction': {(50, 270): {}, (50, 50): {}}}, (87, 225): {}}}
+97 119 {'contraction': {(129, 225): {}}}
+97 111 {}
+97 117 {}
+97 108 {}
+97 105 {}
+97 120 {}
+97 118 {}
+97 109 {}
+98 98 {'contraction': {(379, 479): {}, (379, 379): {}, (104, 104): {'contraction': {(261, 299): {}, (261, 261): {}}}, (104, 226): {}}}
+98 121 {}
+98 100 {}
+99 99 {'contraction': {(420, 420): {}, (420, 480): {}, (188, 188): {'contraction': {(303, 303): {}, (303, 432): {}}}, (188, 227): {}}}
+99 110 {}
+99 120 {}
+99 107 {}
+100 100 {'contraction': {(340, 340): {}, (340, 481): {}, (166, 166): {'contraction': {(173, 173): {}, (173, 401): {}}}, (166, 228): {}}}
+100 118 {}
+100 113 {'contraction': {(166, 241): {'contraction': {(173, 217): {}}}}}
+100 116 {}
+100 125 {}
+100 108 {}
+101 101 {'contraction': {(233, 482): {}, (233, 233): {}, (161, 161): {'contraction': {(356, 391): {}, (356, 356): {}}}, (161, 229): {}}}
+101 127 {}
+101 126 {}
+102 102 {'contraction': {(477, 477): {}, (477, 484): {}, (224, 224): {'contraction': {(256, 256): {}, (256, 476): {}}}, (224, 230): {}}}
+102 118 {}
+102 107 {}
+102 122 {}
+102 109 {}
+102 126 {}
+103 103 {'contraction': {(203, 485): {}, (203, 203): {}, (52, 52): {'contraction': {(170, 170): {}, (170, 190): {}}}, (52, 231): {}}}
+103 122 {}
+103 114 {'contraction': {(52, 242): {}}}
+103 118 {}
+103 127 {'contraction': {(52, 255): {}}}
+103 105 {}
+103 112 {}
+103 116 {}
+103 109 {}
+104 104 {'contraction': {(179, 179): {}, (179, 486): {}, (181, 181): {'contraction': {(153, 153): {}, (153, 422): {}}}, (181, 232): {}}}
+104 124 {}
+105 105 {'contraction': {(416, 416): {}, (416, 487): {}, (69, 69): {'contraction': {(74, 227): {}, (74, 74): {}}}, (69, 233): {}}}
+105 123 {}
+105 118 {}
+105 116 {}
+105 122 {}
+106 106 {'contraction': {(200, 200): {}, (200, 488): {}, (201, 201): {'contraction': {(277, 277): {}, (277, 449): {}}}, (201, 234): {}}}
+106 113 {}
+106 124 {}
+107 107 {'contraction': {(400, 400): {}, (400, 489): {}, (156, 156): {'contraction': {(254, 254): {}, (254, 384): {}}}, (156, 235): {}}}
+108 108 {'contraction': {(483, 483): {}, (483, 491): {}, (203, 203): {'contraction': {(407, 451): {}, (407, 407): {}}}, (203, 236): {}}}
+109 109 {'contraction': {(259, 259): {}, (259, 493): {}, (74, 74): {'contraction': {(84, 84): {}, (84, 237): {}}}, (74, 237): {}}}
+109 119 {}
+109 111 {}
+110 110 {'contraction': {(463, 463): {}, (463, 494): {}, (75, 75): {'contraction': {(229, 229): {}, (229, 238): {}}}, (75, 238): {}}}
+110 113 {}
+110 117 {'contraction': {(89, 238): {}}}
+111 111 {'contraction': {(492, 492): {}, (492, 495): {}, (178, 178): {'contraction': {(201, 201): {}, (201, 418): {}}}, (178, 239): {}}}
+111 114 {}
+112 112 {'contraction': {(262, 262): {}, (262, 496): {}, (57, 57): {'contraction': {(115, 115): {}, (115, 205): {}}}, (57, 240): {}}}
+112 118 {}
+113 113 {'contraction': {(310, 310): {}, (310, 497): {}, (62, 62): {'contraction': {(165, 165): {}, (165, 217): {}}}, (62, 241): {}}}
+113 120 {}
+114 114 {'contraction': {(222, 222): {}, (222, 498): {}, (189, 189): {'contraction': {(309, 309): {}, (309, 433): {}}}, (189, 242): {}}}
+114 120 {}
+114 124 {}
+115 115 {'contraction': {(363, 363): {}, (363, 499): {}, (122, 122): {'contraction': {(275, 275): {}, (275, 330): {}}}, (122, 243): {}}}
+116 116 {'contraction': {(438, 438): {}, (438, 500): {}, (131, 131): {'contraction': {(335, 335): {}, (335, 346): {}}}, (131, 244): {}}}
+116 119 {}
+117 117 {'contraction': {(236, 236): {}, (236, 501): {}, (89, 89): {'contraction': {(212, 212): {}, (212, 273): {}}}, (89, 245): {}}}
+117 121 {}
+118 118 {'contraction': {(244, 244): {}, (244, 502): {}, (218, 246): {}, (218, 218): {'contraction': {(386, 386): {}, (386, 469): {}}}}}
+118 123 {}
+119 119 {'contraction': {(402, 402): {}, (402, 503): {}, (129, 129): {'contraction': {(286, 286): {}, (286, 344): {}}}, (129, 247): {}}}
+119 122 {'contraction': {(129, 66): {}}}
+120 120 {'contraction': {(210, 210): {}, (210, 504): {}, (184, 184): {'contraction': {(399, 399): {}, (399, 427): {}}}, (184, 248): {}}}
+120 123 {}
+121 121 {'contraction': {(246, 246): {}, (246, 505): {}, (128, 128): {'contraction': {(247, 247): {}, (247, 341): {}}}, (128, 249): {}}}
+121 125 {}
+122 122 {'contraction': {(490, 490): {}, (490, 506): {}, (66, 66): {'contraction': {(144, 144): {}, (144, 223): {}}}, (66, 250): {}}}
+123 123 {'contraction': {(473, 473): {}, (473, 507): {}, (209, 209): {'contraction': {(446, 446): {}, (446, 458): {}}}, (209, 251): {}}}
+124 124 {'contraction': {(102, 102): {}, (102, 508): {}, (70, 70): {'contraction': {(113, 113): {}, (113, 228): {}}}, (70, 252): {}}}
+124 127 {}
+125 125 {'contraction': {(283, 283): {}, (283, 509): {}, (99, 99): {'contraction': {(289, 291): {}, (289, 289): {}}}, (99, 253): {}}}
+126 126 {'contraction': {(462, 462): {}, (462, 510): {}, (93, 93): {'contraction': {(218, 218): {}, (218, 281): {}}}, (93, 254): {}}}
+127 127 {'contraction': {(443, 443): {}, (443, 511): {}, (82, 82): {'contraction': {(185, 185): {}, (185, 258): {}}}, (82, 255): {}}}
