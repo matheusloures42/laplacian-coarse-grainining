@@ -122,43 +122,7 @@ def clustering_per_kl_c0(G,lb):
     plt.xlim(left=10**(-2),right=10**2)
 
 
-def plot_nu_regression(G0,G1,G2,G3,G4,G5):
-    
-    kmean=[Average_degree(G0),Average_degree(G1),Average_degree(G2),Average_degree(G3),Average_degree(G4),Average_degree(G5)]
-    l=np.arange(6)
-    plt.scatter(l,np.log(kmean))
-    regressor = LinearRegression() 
-    regressor.fit(np.array(l).reshape((-1,1)),np.array(np.log(kmean)) )
-    ypred=regressor.predict(np.array(l).reshape((-1,1)) )
-    plt.plot(l,ypred)
-    plt.ylabel('log(<k>)')
-    plt.xlabel('layers')
-    print('coef linear=',regressor.intercept_)
-    print('coef angular=',regressor.coef_)
 
-
-def plot_nu_regression2(G0,G1,G2):
-   
-    kmean=[Average_degree(G0),Average_degree(G1),Average_degree(G2)]
-    l=np.arange(3)
-    plt.scatter(l,np.log(kmean))
-    regressor = LinearRegression() 
-    regressor.fit(np.array(l).reshape((-1,1)),np.array(np.log(kmean)) )
-    ypred=regressor.predict(np.array(l).reshape((-1,1)) )
-    plt.plot(l,ypred)
-    plt.ylabel('log(<k>)')
-    plt.xlabel('layers')
-    plt.show()
-    print('coef linear=',regressor.intercept_)
-    print('coef angular=',regressor.coef_)
-
-
-
-
-
-def plot_avg_path_length_x_l(G,l):
-    L=nx.average_shortest_path_length(G)
-    plt.scatter(L,l, color='red')
 
 
 def average_neighbor_degree_x_kl(G,lb):
