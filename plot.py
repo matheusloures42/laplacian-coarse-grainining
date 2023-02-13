@@ -27,7 +27,7 @@ For the power-law distribution the input x is the starting point of the fitting.
 
     
 
-def plot_ccdf(G,lb):
+def plot_ccdf(G,lb,mark):
     
     degrees = [G.degree(n) for n in G.nodes()]
     kmean=Average_degree(G)
@@ -37,7 +37,7 @@ def plot_ccdf(G,lb):
     x=np.linspace(0, np.amax(l),num=len(heights))
     ccdf=1-np.cumsum(pk)
     plt.style.use(['science','notebook'])
-    plt.scatter(x,ccdf,label=lb)
+    plt.scatter(x,ccdf,label=lb, marker=mark,s=100)
     plt.xscale('log')
     plt.yscale('log')
     plt.ylim(bottom=10**(-4),top=1)
@@ -47,7 +47,7 @@ def plot_ccdf(G,lb):
     plt.xlabel('$k/<k>$')
     
 
-def clustering_per_kl(G,lb):
+def clustering_per_kl(G,lb, mark):
     
     
     degrees = [G.degree(n) for n in G.nodes()]
@@ -72,7 +72,7 @@ def clustering_per_kl(G,lb):
         clustering_coeff = nx.clustering(G, d[degree])
         
         cpd.append(sum(clustering_coeff.values())/len(clustering_coeff))
-    plt.scatter(l,cpd,label=lb)
+    plt.scatter(l,cpd,marker=mark,label=lb,s=100)
     plt.xscale('log')
     plt.yscale('log')
     plt.ylabel('$c(k/<k>)$')
@@ -84,7 +84,7 @@ def clustering_per_kl(G,lb):
     
     plt.xlim(left=10**(-2),right=10**2)
 
-def clustering_per_kl_c0(G,lb):
+def clustering_per_kl_c0(G,lb, mark):
     
     
     degrees = [G.degree(n) for n in G.nodes()]
@@ -110,7 +110,7 @@ def clustering_per_kl_c0(G,lb):
         
         cpd.append(sum(clustering_coeff.values())/len(clustering_coeff)*(1/norm))
     plt.style.use(['science','notebook'])
-    plt.scatter(l,cpd,label=lb)
+    plt.scatter(l,cpd,label=lb,marker=mark,s=100)
     plt.xscale('log')
     plt.yscale('log')
     plt.ylabel('$c(k/<k>)/c_0$')
@@ -125,7 +125,7 @@ def clustering_per_kl_c0(G,lb):
 
 
 
-def average_neighbor_degree_x_kl(G,lb):
+def average_neighbor_degree_x_kl(G,lb,mark):
     degrees = [G.degree(n) for n in G.nodes()]
     kmean=Average_degree(G)
     ksqrmean=average_degree_square(G)
@@ -148,7 +148,7 @@ def average_neighbor_degree_x_kl(G,lb):
         
         annd.append(sum(nearest_neighbors_degree.values())/len(nearest_neighbors_degree)*(kmean/ksqrmean))
     
-    plt.scatter(l,annd,label=lb)
+    plt.scatter(l,annd,label=lb,marker=mark,s=100)
     plt.legend()
     plt.xscale('log')
     plt.yscale('log')
@@ -167,8 +167,8 @@ def heat_map_covariance(G):
     
     for j in range(len(L)):
         C[j,j]=0
-    #plt.imshow(C,norm=LogNorm())
-    plt.imshow(C, interpolation='none')
+    plt.imshow(C,norm=LogNorm(),cmap='Greens')
+    #plt.imshow(C, interpolation='none')
     plt.colorbar()
     
     
@@ -271,7 +271,7 @@ def heat_map_adjacency(G):
     
     #plt.colorbar()
     
-def BA_avg_ccdf(l,lb):
+def BA_avg_ccdf(l,lb,mark):
     list_of_graphs={}
     for j in range(100):
         list_of_graphs[j]=nx.read_edgelist('Data/barabasi_data/m5_'+str(l)+'_edgelist_loop_'+str(j)+'.txt')
@@ -293,7 +293,7 @@ def BA_avg_ccdf(l,lb):
         ccdf_avg+=ccdf/100
     x=np.linspace(0, np.mean(maxk)/np.mean(kmeans),num=len(heights))
     plt.style.use(['science','notebook'])
-    plt.scatter(x,ccdf_avg,label=lb)
+    plt.scatter(x,ccdf_avg,label=lb,marker=mark,s=100)
     plt.xscale('log')
     plt.yscale('log')
     plt.ylim(bottom=10**(-4),top=1)
@@ -302,7 +302,7 @@ def BA_avg_ccdf(l,lb):
     plt.ylabel('$P_c(k/<k>)$')
     plt.xlabel('$k/<k>$')
     
-def ER_avg_ccdf(l,lb):
+def ER_avg_ccdf(l,lb,mark):
     list_of_graphs={}
     for j in range(100):
         list_of_graphs[j]=nx.read_edgelist('Data/erdos_data/p01_'+str(l)+'_edgelist_loop_'+str(j)+'.txt')
@@ -326,7 +326,7 @@ def ER_avg_ccdf(l,lb):
         ccdf_avg+=ccdf/100
     x=np.linspace(0, np.mean(maxk)/np.mean(kmeans),num=len(heights))
     plt.style.use(['science','notebook'])
-    plt.scatter(x,ccdf_avg,label=lb)
+    plt.scatter(x,ccdf_avg,label=lb, marker=mark,s=100)
     plt.xscale('log')
     plt.yscale('log')
     plt.ylim(bottom=10**(-4),top=1)
@@ -336,7 +336,7 @@ def ER_avg_ccdf(l,lb):
     plt.xlabel('$k/<k>$')
     
 
-def BA_avg_clustering_per_kl(l,lb):
+def BA_avg_clustering_per_kl(l,lb, mark):
     list_of_graphs={}
     for j in range(100):
         list_of_graphs[j]=nx.read_edgelist('Data/barabasi_data/m5_'+str(l)+'_edgelist_loop_'+str(j)+'.txt')
@@ -370,7 +370,7 @@ def BA_avg_clustering_per_kl(l,lb):
         
     l=s/np.mean(kmeans)
         
-    plt.scatter(l,cpd,label=lb)
+    plt.scatter(l,cpd,label=lb,marker=mark,s=100)
     plt.xscale('log')
     plt.yscale('log')
     plt.ylabel('$c(k/<k>)$')
@@ -383,7 +383,7 @@ def BA_avg_clustering_per_kl(l,lb):
     plt.xlim(left=10**(-2),right=10**2)
     
 
-def ER_avg_clustering_per_kl(l,lb):
+def ER_avg_clustering_per_kl(l,lb,mark):
     list_of_graphs={}
     for j in range(100):
         list_of_graphs[j]=nx.read_edgelist('Data/erdos_data/p01_'+str(l)+'_edgelist_loop_'+str(j)+'.txt')
@@ -417,7 +417,7 @@ def ER_avg_clustering_per_kl(l,lb):
         
     l=s/np.mean(kmeans)
         
-    plt.scatter(l,cpd,label=lb)
+    plt.scatter(l,cpd,label=lb,marker=mark,s=100)
     plt.xscale('log')
     plt.yscale('log')
     plt.ylabel('$c(k/<k>)$')
@@ -429,7 +429,7 @@ def ER_avg_clustering_per_kl(l,lb):
     
     plt.xlim(left=10**(-2),right=10**2)
     
-def BA_avg_clustering_per_kl_c0(l,lb):
+def BA_avg_clustering_per_kl_c0(l,lb,mark):
     list_of_graphs={}
     for j in range(100):
         list_of_graphs[j]=nx.read_edgelist('Data/barabasi_data/m5_'+str(l)+'_edgelist_loop_'+str(j)+'.txt')
@@ -467,7 +467,7 @@ def BA_avg_clustering_per_kl_c0(l,lb):
     
     c0mean=np.mean(c_0_list)
         
-    plt.scatter(l,cpd/c0mean,label=lb)
+    plt.scatter(l,cpd/c0mean,label=lb,marker=mark,s=100)
     plt.xscale('log')
     plt.yscale('log')
     plt.ylabel('$c(k/<k>)$')
@@ -480,7 +480,7 @@ def BA_avg_clustering_per_kl_c0(l,lb):
     plt.xlim(left=10**(-2),right=10**2)
     
 
-def ER_avg_clustering_per_kl_c0(l,lb):
+def ER_avg_clustering_per_kl_c0(l,lb,mark):
     list_of_graphs={}
     for j in range(100):
         list_of_graphs[j]=nx.read_edgelist('Data/erdos_data/p01_'+str(l)+'_edgelist_loop_'+str(j)+'.txt')
@@ -518,7 +518,7 @@ def ER_avg_clustering_per_kl_c0(l,lb):
     
     c0mean=np.mean(c_0_list)
         
-    plt.scatter(l,cpd/c0mean,label=lb)
+    plt.scatter(l,cpd/c0mean,label=lb, marker=mark,s=100)
     plt.xscale('log')
     plt.yscale('log')
     plt.ylabel('$c(k/<k>)/c_0$')
@@ -532,7 +532,7 @@ def ER_avg_clustering_per_kl_c0(l,lb):
     
 
 
-def BA_avg_average_neighbor_degree_x_kl(l,lb):
+def BA_avg_average_neighbor_degree_x_kl(l,lb,mark,s=100):
     list_of_graphs={}
     for j in range(100):
         list_of_graphs[j]=nx.read_edgelist('Data/barabasi_data/m5_'+str(l)+'_edgelist_loop_'+str(j)+'.txt')
@@ -570,7 +570,7 @@ def BA_avg_average_neighbor_degree_x_kl(l,lb):
     
     k0mean=np.mean(k_0_list)
         
-    plt.scatter(l,annd/k0mean,label=lb)
+    plt.scatter(l,annd/k0mean,label=lb,marker=mark,s=100)
     plt.legend()
     plt.xscale('log')
     plt.yscale('log')
@@ -579,7 +579,7 @@ def BA_avg_average_neighbor_degree_x_kl(l,lb):
     plt.xlabel('$k/<k>$')
     
     
-def ER_avg_average_neighbor_degree_x_kl(l,lb):
+def ER_avg_average_neighbor_degree_x_kl(l,lb,mark):
     list_of_graphs={}
     for j in range(100):
         list_of_graphs[j]=nx.read_edgelist('Data/erdos_data/p01_'+str(l)+'_edgelist_loop_'+str(j)+'.txt')
@@ -617,7 +617,7 @@ def ER_avg_average_neighbor_degree_x_kl(l,lb):
     
     k0mean=np.mean(k_0_list)
         
-    plt.scatter(l,annd/k0mean,label=lb)
+    plt.scatter(l,annd/k0mean,label=lb,marker=mark,s=100)
     plt.legend()
     plt.xscale('log')
     plt.yscale('log')
